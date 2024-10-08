@@ -47,9 +47,9 @@ Incorrect sound data specification can lead to crashes and active memory corrupt
 | Sound Effects | `RSD4PCMB` | `RSD4VAG ` | `RSD4PCM ` | `RSD4PCM ` | 1 | 16 | 24000 |
 
 ## Programs
-[**ffmpeg -**](https://ffmpeg.org/) A cross-platform command-line utility capable of decoding, playing, and exporting all RSD4 encoding formats mentioned above to any supported audio export format.
-[**Lucas' RSD Converter -**](https://modbakery.donutteam.com/releases/view/14) A Windows graphical-user-interface tool capable of decoding, playing, and exporting all RSD encoding formats mentioned above to **Wave**/".wav" files except for **RSD4GADP** and **RSD4VAG**; can encode/convert *to* **RSD4PCM** and **RSD4PCMB** via **Wave**/".wav" files.
-[**Audacity -**](https://www.audacityteam.org/) A cross-platform graphical-user-interface tool capable of importing raw audio data to work with (thus **RSD4PCM**/**RSD4PCMB** audio) and export however supported with the right settings - see below.
+[**ffmpeg ->**](https://ffmpeg.org/) A cross-platform command-line utility capable of decoding, playing, and exporting all RSD4 encoding formats mentioned above to any supported audio export format.  
+[**Lucas' RSD Converter ->**](https://modbakery.donutteam.com/releases/view/14) A Windows graphical-user-interface tool capable of decoding, playing, and exporting all RSD encoding formats mentioned above to **Wave**/".wav" files except for **RSD4GADP** and **RSD4VAG**; can encode/convert *to* **RSD4PCM** and **RSD4PCMB** via **Wave**/".wav" files.  
+[**Audacity ->**](https://www.audacityteam.org/) A cross-platform graphical-user-interface tool capable of importing raw audio data to work with (thus **RSD4PCM**/**RSD4PCMB** audio) and export however supported with the right settings - see below.
 
 ## Settings to import RSD4PCM/B audio in Audacity via "Import Raw Data"
 ```
