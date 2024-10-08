@@ -3709,7 +3709,7 @@ Redundant actions (for example, to load an already loaded area) are ignored.
 Some things to take note of:
 - Functions that want to work with a Convinit/Noboxconv *will not work with anything else*, only a correctly defined dialogue line or line sequence.
 - Sound resource/Convinit/Noboxconv names are **case-sensitive**, relative to the SPT. If in the SPT your conversation is named `c_Churn`, calls in functions should reflect that as `churn`. Every line should follow the same naming style, if there are multiple.
-- When referencing a general purpose sound resource and not dialogue, it seems anything goes. The game dumps every SPT sound resource from a list of hardcoded files at startup, and from then on all of them are referrable.
+- When referencing a general purpose sound resource and not dialogue, it seems anything goes. The game dumps every SPT sound resource from a list of hardcoded files at startup, and from then on all of them are referable.
 
 ### AI vehicle behaviours
 When using functions to work with AI vehicles, they can be assigned behaviours.
