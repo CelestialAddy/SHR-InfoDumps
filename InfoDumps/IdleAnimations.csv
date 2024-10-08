@@ -1,0 +1,27 @@
+Character,Idle Prefix,Idle 0,Idle 1,Idle 2
+Homer - Normal,hom_idle_,scratch,check_shoes,chili
+Homer - Stonecutter,hom_idle_,stonecutter,check_shoes,scratch
+Homer - Casual,hom_idle_,bumshake,check_shoes,scratch
+Homer - Donut,hom_idle_,donut,check_shoes,scratch
+Homer - Muumuu,hom_idle_,fat,check_shoes,scratch
+Homer - Evil,hom_idle_,evil_dancing,check_shoes,scratch
+Homer - Dirty,hom_idle_,scuzzy,check_shoes,scratch
+Bart - Normal,brt_idle_,hands_on_hips,handstand,backflip
+Bart - Military,brt_idle_,salute,handstand,backflip
+Bart - Football,brt_idle_,football,handstand,backflip
+Bart - Ninja,brt_idle_,ninja,handstand,backflip
+Bart - Bartman,brt_idle_,bartman,handstand,backflip
+Bart - Hugo,brt_idle_,hugo,handstand,backflip
+Bart - Tall,brt_idle_,pee_wee_dance,handstand,backflip
+Lisa - Normal,lsa_idle_,look_watch,handstand,tai_chi
+Lisa - Cool,lsa_idle_,skate,look_watch,handstand
+Lisa - Hockey,lsa_idle_,hockey,look_watch,handstand
+Lisa - Florida,lsa_idle_,florida,look_watch,handstand
+Marge - Normal,mrg_idle_,fix_hair,cross_arms,file_nails
+Marge - Classy,mrg_idle_,file_nails,fix_hair,cross_arms
+Marge - Police,mrg_idle_,police,cross_arms,file_nails
+Marge - Inmate,mrg_idle_,prison,cross_arms,file_nails
+Apu - Normal,apu_idle_,yoga,pants,backspin
+Apu - American,apu_idle_,riding_horse,yoga,backspin
+Apu - Army,apu_idle_,army,yoga,backspin
+Apu - B-sharps,apu_idle_,be_sharp,yoga,backspin
