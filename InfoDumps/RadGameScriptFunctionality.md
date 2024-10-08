@@ -1,5 +1,5 @@
 # RadGameScriptFunctionality
-NOTE: There's always more to discover, and not everything is currently fully known or possibly presented the best. The point is to make information available and improve when I can over time..
+NOTE: There's always more to discover, and not everything is currently fully known or possibly presented the best. The point is to make information available and improve when I can over time.
 
 Credit to Donut Team/community for years of information and tools, not just me.
 Specific thanks to friends Borb and maz who have helped greatly with information and testing.
