@@ -1360,7 +1360,7 @@ SetLevelOver();
 SetLevelOver();
 ```
 Used in mission initialisation scripts.
-Must be used between calls to **?** and **?**.
+Must be used between calls to **AddStage** and **CloseStage**.
 Shows the Level Progress screen upon stage/objective completion.
 
 ### SetGameOver
@@ -1369,7 +1369,7 @@ SetGameOver();
 SetGameOver();
 ```
 Used in mission initialisation scripts.
-Must be used between calls to **AddStage** and **CloeStage**.
+Must be used between calls to **AddStage** and **CloseStage**.
 Shows the Level Progress screen (followed by the credits and exit to Main Menu sequence) upon stage/objective completion.
 
 ### StayInBlack
@@ -3725,7 +3725,7 @@ The Custom Files/CustomFiles hack allows missions to be crafted in the lua progr
 
 Outside of handing scripts to the game as strings, there is also Donut Team's `game.lua` script (formerly `mfk.lua`), which provides functionality to store a script as lua and simply redirect to that. Quirks/changes relevant to this method include:
 - Function calls must be preceeded with `Game.` (this can be changed by editing `game.lua`, though);
-- Comments must be lua-style (`-- comment` / `--[[ comement ]]--`);
+- Comments must be lua-style (`-- comment` / `--[[ comment ]]--`);
 - Function calls no longer need to end with a semi-colon (`;`);
 - Instances of `\` for filepaths need to be escaped/set to `\\`;
 - Any calls to function with `str`-type arguments now need quotations surrounding those arguments;
