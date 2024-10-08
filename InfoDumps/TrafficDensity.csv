@@ -1,0 +1,141 @@
+Mission,Segment,Stage (1-25),Objective,Henceforth Set Maximum/Target Active Road Traffic Vehicles
+L1 M0,Sunday Drive,1,(Talk to Marge),2
+L1 M0,Mission,3,(Enter Kwik-E-Mart),2
+L1 M1,Sunday Drive,1,(Drive to Simpson household),2
+L1 M1,Mission,2,(Trigger race),2
+L1 M1,Mission,4,(Enter School),2
+L1 M1,Mission,5,(Talk to Lisa),2
+L1 M2,Sunday Drive,1,(Drive to Simpson household),2
+L1 M3,Sunday Drive,1,(Drive to Simpson household),2
+L1 M3,Sunday Drive,2,(Enter Simpson household),2
+L1 M4,Sunday Drive,1,(Drive to Power Plant),2
+L1 M5,Sunday Drive,1,(Drive to Simpson household),2
+L1 M6,Sunday Drive,1,(Drive to Grocery Store),2
+L1 M7,Sunday Drive,1,(Drive to Power Plant),2
+L1 M7,Mission,1,(Race against Smithers),2
+L1 M7,Mission,2,(Talk to Burns),2
+L1 R1,Mission,1,(Time Trial),DISABLED
+L1 R2,Mission,1,(Circuit Race),DISABLED
+L1 R3,Mission,1,(Checkpoint Race),DISABLED
+L1 G1,Mission,2,(Wager Race),2
+L1 D1,Mission,1,(Demo Race),4
+L2 M1,Sunday Drive,1,(Talk to Milhouse),5
+L2 M1,Mission,2,(Trigger escape),2
+L2 M1,Mission,5,(Talk to Jimbo),5
+L2 M2,Sunday Drive,1,(Drive to Herman),4
+L2 M2,Mission,2,(Drive to Moe),2
+L2 M2,Mission,11,(Drive to Town Hall),2
+L2 M2,Mission,16,(Drive to Police Station),3
+L2 M2,Mission,21,(Escape Wiggum),2
+L2 M3,Sunday Drive,1,(Drive to Googleplex),4
+L2 M3,Mission,1,(Race against Nerd),3
+L2 M4,Sunday Drive,1,(Drive to Stadium),4
+L2 M4,Mission,1,(Follow Pizza Van),2
+L2 M4,Mission,4,(Find Snake),5
+L2 M4,Mission,7,(Race against Snake),3
+L2 M5,Sunday Drive,1,(Drive to Krusty Burger),4
+L2 M5,Mission,1,(Collect flatmeat),4
+L2 M6,Sunday Drive,1,(Drive to Stadium),4
+L2 M6,Mission,3,(Collect monkeys),4
+L2 M7,Sunday Drive,1,(Drive to Stadium),4
+L2 M7,Mission,2,(Destroy Cell Phone Car A 1),2
+L2 M7,Mission,3,(Destroy Cell Phone Car A 2),3
+L2 M7,Mission,4,(Destroy Cell Phone Car A 3),4
+L2 M7,Mission,5,(Destroy Cell Phone Car A 4),5
+L2 M7,Mission,6,(Drive to Stadium),5
+L2 B1,Mission,1,(Collect blood bag 1),5
+L2 B1,Mission,8,(Drive to Krusty Burger),5
+L2 R1,Mission,1,(Time Trial),DISABLED
+L2 R2,Mission,1,(Circuit Race),DISABLED
+L2 R3,Mission,1,(Checkpoint Race),DISABLED
+L2 G1,Mission,2,(Wager Race),5
+L2 D1,Mission,1,(Demo Race),4
+L3 M1,Sunday Drive,1,(Enter Android Dungeon),3
+L3 M1,Mission,1,(Race against Nerd),2
+L3 M2,Sunday Drive,1,(Drive to Noiseland Arcade),3
+L3 M3,Sunday Drive,1,(Drive to Krusty Burger),3
+L3 M3,Mission,1,(Hit-and-collect from Cletus),3
+L3 M3,Mission,2,(Drive to Observatory),5
+L3 M4,Sunday Drive,1,(Talk to Grampa),3
+L3 M4,Mission,3,(Collect red hat),3
+L3 M4,Mission,8,(Destroy Chase Sedan 3),3
+L3 M5,Sunday Drive,1,(Drive to Casino),3
+L3 M5,Sunday Drive,6,(Get in Police Car),1
+L3 M5,Mission,1,(Follow-and-collect from Snake),3
+L3 M6,Sunday Drive,1,(Drive to Chum-N-Stuff),3
+L3 M6,Mission,2,(Set fish free),3
+L3 M7,Sunday Drive,1,(Drive to Chum-N-Stuff),3
+L3 M7,Mission,1,(Destroy Limo),2
+L3 B1,Mission,13,(Drive to Noiseland Arcade),3
+L3 R1,Mission,1,(Time Trial),DISABLED
+L3 R2,Mission,1,(Circuit Race),DISABLED
+L3 R3,Mission,1,(Checkpoint Race),DISABLED
+L3 G1,Mission,2,(Wager Race),5
+L3 D1,Mission,1,(Demo Race),4
+L4 M1,Sunday Drive,1,(Talk to Bart),3
+L4 M2,Sunday Drive,1,(Drive to Cletus),3
+L4 M2,Mission,1,(Follow-and-collect from Cletus),3
+L4 M3,Sunday Drive,1,(Talk to Cletus),3
+L4 M4,Sunday Drive,1,(Drive to Cemetery),3
+L4 M5,Sunday Drive,1,(Talk to Grampa),3
+L4 M6,Sunday Drive,1,(Drive to Simpson household),3
+L4 M7,Sunday Drive,1,(Drive to Kwik-E-Mart),3
+L4 R1,Mission,1,(Time Trial),DISABLED
+L4 R2,Mission,1,(Circuit Race),DISABLED
+L4 R3,Mission,1,(Checkpoint Race),DISABLED
+L4 G1,Mission,2,(Wager Race),5
+L5 M1,Sunday Drive,1,(Find hidden Cola Truck),5
+L5 M1,Mission,2,(Follow-and-collect from Cola Truck),3
+L5 M2,Sunday Drive,1,(Talk to Louie),4
+L5 M2,Mission,5,(Drive to Hospital 3),5
+L5 M3,Sunday Drive,1,(Talk to Hibbert),5
+L5 M3,Mission,3,(Hit-and-collect from Nonuplets Minivan),2
+L5 M4,Sunday Drive,1,(Drive to Krusty Burger),5
+L5 M4,Mission,2,(Follow doughnut trail),5
+L5 M5,Sunday Drive,1,(Talk to Snake),5
+L5 M5,Mission,2,(Follow-and-collect from Garbage Truck),3
+L5 M5,Mission,3,(Collect remaining garbage),3
+L5 M6,Sunday Drive,1,(Talk to Snake),5
+L5 M6,Mission,3,(Drive to Googleplex 2),5
+L5 M6,Mission,4,(Destroy Armored Truck),3
+L5 M7,Sunday Drive,1,(Talk to Bart),5
+L5 M7,Mission,1,(Drive to Museum 1),3
+L5 M7,Mission,2,(Destroy Curator for key),2
+L5 M7,Mission,3,(Drive to Museum 2),3
+L5 R1,Mission,1,(Time Trial),DISABLED
+L5 R2,Mission,1,(Circuit Race),DISABLED
+L5 R3,Mission,1,(Checkpoint Race),DISABLED
+L6 M1,Sunday Drive,1,(Talk to Apu),3
+L6 M1,Mission,1,(Collect passengers),3
+L6 M2,Sunday Drive,1,(Talk to Barney),3
+L6 M2,Mission,2,(Talk to limo driver),1
+L6 M2,Mission,3,(Race against Krusty Limo),3
+L6 M3,Sunday Drive,1,(Talk to Krusty),4
+L6 M3,Mission,1,(Follow Frink),3
+L6 M4,Sunday Drive,1,(Enter Observatory),5
+L6 M4,Mission,2,(Drive to Duff Brewery 1),5
+L6 M4,Mission,3,(Hit-and-collect from Duff Truck),3
+L6 M4,Mission,4,(Drive to Duff Brewery 2),5
+L6 M5,Sunday Drive,1,(Drive to Taffy Shop),5
+L6 M6,Sunday Drive,1,(Drive to KrustyLu Studios),5
+L6 M7,Sunday Drive,1,(Drive to Krusty Burger),5
+L6 M7,Mission,1,(Race against Black Sedan),5
+L6 R1,Mission,1,(Time Trial),DISABLED
+L6 R2,Mission,1,(Circuit Race),DISABLED
+L6 R3,Mission,1,(Checkpoint Race),DISABLED
+L6 G1,Mission,2,(Wager Race),3
+L7 M1,Sunday Drive,1,(Talk to Lisa),5
+L7 M1,Mission,1,(Talk to Ned),3
+L7 M2,Sunday Drive,1,(Drive to playground),5
+L7 M2,Mission,3,(Follow Ferrini - Black),3
+L7 M3,Sunday Drive,1,(Talk to Frink),5
+L7 M3,Mission,2,(Drive to playground),4
+L7 M4,Sunday Drive,1,(Enter School),5
+L7 M5,Sunday Drive,1,(Talk to Burns),5
+L7 M6,Sunday Drive,1,(Talk to Snake),5
+L7 M6,Mission,2,(Escape Ferrini - Black),3
+L7 M7,Sunday Drive,1,(Talk to Grampa),5
+L7 R1,Mission,1,(Time Trial),DISABLED
+L7 R2,Mission,1,(Circuit Race),DISABLED
+L7 R3,Mission,1,(Checkpoint Race),DISABLED
+L7 G1,Mission,2,(Wager Race),5
