@@ -1112,7 +1112,7 @@ Must be used between calls to **AddStage** and **CloseStage**.
 If used in a Sunday Drive/pre-mission segment, sets the containing stage/objective as the one to start at when at all warping to the mission.
 If used in a main mission segment, sets the containing stage/objective as the one to start at following a restart/fail.
 Only one call is supported per-mission segment.
-One of the mission segment types is fine without one, and the other crashes if there isn't one. ~~ADDYNOKNOW~~
+Whilst Sunday Drive segments work fine, main mission segments crash upon restart if no **RESET_TO_HERE** call is present.
 
 ### SetMaxTraffic
 ```
@@ -1695,7 +1695,7 @@ In `dump` objectives:
 - If there is more than one call to **AddCollectible** and none to **BindCollectibleTo**, the objective becomes a hit-and-collect;
 - If there are any calls to **BindCollectibleTo**, the objective becomes a follow-and-collect, regardless of the number of **AddCollectible** calls (so long as there is at least one);
 
-In `race` objectives, calls to **AddCollectible** are used as successive player-hit-required checkpoints.
+In `race` objectives, calls to **AddCollectible** are used as successive player-hit-required checkpoints. In `delivery` objectives, all collectibles are present at once.
 A compatible objective can feature up to 30 collectibles/targets.
 Radar pointer order in `delivery` objectives is determined by order of definition in script.
 *RoadArrowControl* (see **AddObjective**) is supported.
