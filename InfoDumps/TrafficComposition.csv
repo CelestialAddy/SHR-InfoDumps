@@ -1,0 +1,16 @@
+Property,Default/0,L1/0,L2/0,L3/0,L4/0,L5/0,L6/0,L7/0
+Vehicle 1 Name,pickupA (Pickup),minivanA (Minivan),taxiA (Taxi),compactA (Compact Car),compactA (Compact Car),sportsB (Sports Car B),compactA (Compact Car),coffin (Coffin Car)
+Vehicle 1 Road,1,2,2,2,2,2,2,2
+Vehicle 1 Park,N,Y (default),Y (default),Y (default),Y (default),Y (default),Y (default),Y (default)
+Vehicle 2 Name,compactA (Compact Car),glastruc (glastruc),sedanB (Sedan B),pickupA (Pickup),SUVA (SUV),SUVA (SUV),pickupA (Pickup),hallo (Hallo Hearse)
+Vehicle 2 Road,2,1,1,1,1,1,1,1
+Vehicle 2 Park,N,N,Y (default),Y (default),Y (default),Y (default),Y (default),Y (default)
+Vehicle 3 Name,sportsA (Sports Car A),schoolbu (Mini School Bus),sportsA (Sports Car A),sportsA (Sports Car A),garbage (Garbage Truck),ambul (Ambulance),burnsarm (Burns Armored Truck),ship (Ghost Ship)
+Vehicle 3 Road,1,1,1,1,1,1,1,1
+Vehicle 3 Park,N,N,Y (Default),Y (Default),N,N,N,N
+Vehicle 4 Name,SUVA (SUV),pickupA (Pickup),pizza (Pizza Van),fishtruc (Fish Van),nuctruck (Nuclear Waste Truck),votetruc (Vote Quimby Truck),IStruck (Itchy and Scratchy Movie Track),witchcar (Witch Broom)
+Vehicle 4 Road,1,1,1,1,1,1,1,1
+Vehicle 4 Park,N,Y (Default),N,N,N,N,N,N
+Vehicle 5 Name,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Vehicle 5 Road,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Vehicle 5 Park,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A

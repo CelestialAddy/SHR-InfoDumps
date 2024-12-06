@@ -1,0 +1,43 @@
+Character,Type,Level 1,Level 2,Level 3,Level 4,Level 5,Level 6,Level 7,Suppressed (#/7 Levels),Driver (#/7 Levels)
+apu,D,N,N,N (2),N,N,N,Y,6/7,1/7
+barney,C,Y,Y,N,Y,N,N,Y,3/7,4/7
+barneyr,_,Y,N,Y,Y,Y,Y,Y,1/7,6/7
+bart,D,N,N,N,N,N,N,Y,6/7,1/7
+beeman,C,Y,N,Y,N,Y,Y,N,3/7,4/7
+burns,C,Y,Y,Y,Y,Y,N,N,2/7,5/7
+captain,C,Y,Y,N (2),Y,Y,N,Y,2/7,5/7
+carl,C,Y,Y,Y,Y,Y,N,N,2/7,5/7
+cbg,D,Y,N,N,Y,Y,N,N,4/7,3/7
+cletus,D,Y,N,N,N,Y,Y,N,4/7,3/7
+dolph,C,Y,Y,N,Y,Y,Y,Y,1/7,6/7
+frink,D,Y,N,N,N,Y,N,N,5/7,2/7
+gil,C,Y,N,N,N,N,N,N,6/7,1/7
+grandpa,D,N,Y,N,N,N,Y,N,5/7,2/7
+hibbert,C,Y,Y,Y,Y,N,Y,Y,1/7,6/7
+homer,D,N,N,Y,Y,N,N,N,5/7,2/7
+jasper,C,Y,N,Y,Y,N,Y,Y,2/7,5/7
+jimbo,C,Y,N,Y,Y,Y,N,Y,2/7,5/7
+kearney,C,Y,N,Y,N,Y,Y,Y,2/7,5/7
+krusty,C,Y,Y,Y,Y,N,N,Y,2/7,5/7
+lenny,C,Y,N,Y,Y,N,Y,Y,2/7,5/7
+lisa,D,N,N,N,Y,Y,Y,N,4/7,3/7
+lou,C,Y,N,Y,Y,Y,N,Y,2/7,5/7
+louie,C,Y,N,N,N,N,N,N,6/7,1/7
+marge,D,N,Y,N,N,Y,Y,Y,3/7,4/7
+milhouse,C,Y,N,N,N,N,N,N,6/7,1/7
+moe,C,Y,N,Y,N,N,Y,Y,3/7,4/7
+moleman,C,Y,N,Y,N,Y,Y,Y,2/7,5/7
+ned,C,Y,Y,Y,Y,Y,Y,N,1/7,6/7
+nelson,C,Y,N,N,N,N,N,N,6/7,1/7
+nriviera,C,Y,N,Y,Y,Y,Y,Y,1/7,6/7
+otto,D,Y,N,N,Y,N,N,Y,4/7,3/7
+patty,C,Y,N,Y,Y,N,Y,Y,2/7,5/7
+ralph,C,Y,N,N,N,N,N,N,6/7,1/7
+selma,C,Y,Y,Y,N,N,Y,Y,2/7,5/7
+skinner,D,N,N,Y,N,Y,N,N,5/7,2/7
+smithers,D,N,Y,N,Y,Y,Y,Y,2/7,5/7
+snake,D,Y,N,Y,Y,N,Y,N,3/7,4/7
+teen,C,Y,N,Y,Y,Y,N,N,3/7,4/7
+wiggum,D,Y,N,N,N,N,N,N,6/7,1/7
+zmale1,D,Y,Y,Y,Y,Y,Y,N,1/7,6/7
+zombie,_,Y,Y,Y,Y,Y,Y,N,1/7,6/7

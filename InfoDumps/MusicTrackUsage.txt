@@ -1,0 +1,3863 @@
+apu\apu_reward01
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Apu_Reward01".
+		L5 : IN REGION : "OF_found_card_region".
+apu\apu_reward03
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Apu_Reward03".
+		L5 : IN REGION : "OF_found_card_region".
+apu\kwik_e_mart_muzak
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "KwikEmart".
+		L1 : IN REGION : "KwikEmart_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "KwikEmart".
+		L2 : IN REGION : "KwikEmart_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "KwikEmart".
+		L3 : IN REGION : "KwikEmart_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "KwikEmart".
+		L4 : IN REGION : "KwikEmart_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "KwikEmart".
+		L5 : IN REGION : "KwikEmart_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "KwikEmart".
+		L6 : IN REGION : "KwikEmart_region".
+apu\kwik_e_mart_muzak02
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "KwikEmart".
+		L7 : IN REGION : "KwikEmart_region".
+apu\sitar_hoa01
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_HOA01".
+		L5 : IN REGION : "OF_explore_region".
+apu\sitar_hoa02
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_HOA02".
+		L5 : IN REGION : "OF_explore_region".
+apu\sitar_hoa03
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_HOA03".
+		L5 : IN REGION : "Level_Intro_region".
+	L5 : USES ALIAS "Sitar_HOA03".
+		L5 : IN REGION : "Level_Intro_region".
+apu\sitar_hoa04
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_HOA04".
+		L5 : IN REGION : "OF_explore_region".
+apu\sitar_hoa05
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_HOA05".
+		L5 : IN REGION : "OF_explore_region".
+apu\sitar_hoa06
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_HOA06".
+		L5 : IN REGION : "OF_explore_region".
+apu\sitar_hoa07
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_HOA07".
+		L5 : IN REGION : "OF_explore_region".
+apu\sitar_hoa08
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_HOA08".
+		L5 : IN REGION : "OF_explore_region".
+apu\sitar_hoa09
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_HOA09".
+		L5 : IN REGION : "OF_explore_region".
+apu\sitar_hoa10
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_HOA10".
+		L5 : IN REGION : "OF_explore_region".
+apu\sitar_hoa11
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_HOA11".
+		L5 : IN REGION : "OF_explore_region".
+apu\sitar_hoa12
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_HOA12".
+		L5 : IN REGION : "OF_explore_region".
+apu\sitar_hoa13
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_HOA13".
+		L5 : IN REGION : "OF_explore_region".
+apu\sitar_hoa14
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_HOA14".
+		L5 : IN REGION : "OF_explore_region".
+apu\sitar_hoa15
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_HOA15".
+		L5 : IN REGION : "OF_explore_region".
+apu\sitar_hoa16
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_HOA16".
+		L5 : IN REGION : "OF_explore_region".
+apu\sitar_hoa17
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_HOA17".
+		L5 : IN REGION : "OF_explore_region".
+apu\sitar_hoa18
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_HOA18".
+		L5 : IN REGION : "OF_explore_region".
+apu\sitar_hoa19
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_HOA19".
+		L5 : IN REGION : "OF_explore_region".
+apu\sitar_hoa20
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_HOA20".
+		L5 : IN REGION : "OF_explore_region".
+apu\sitar_hoa21
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_HOA21".
+		L5 : IN REGION : "OF_explore_region".
+apu\sitar_hoa22
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_HOA22".
+		L5 : IN REGION : "OF_explore_region".
+apu\sitar_hoa23
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_HOA23".
+		L5 : IN REGION : "OF_explore_region".
+apu\sitar_hoa24
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_HOA24".
+		L5 : IN REGION : "OF_explore_region".
+apu\sitar_hoa25
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_HOA25".
+		L5 : IN REGION : "OF_explore_region".
+apu\sitar_hoa26
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_HOA26".
+		L5 : IN REGION : "Entering_Building_region".
+apu\sitar_hoa27
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_HOA27".
+		L5 : IN REGION : "Entering_Building_region".
+apu\sitar_hoa28
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_HOA28".
+		L5 : IN REGION : "Entering_Building_region".
+apu\sitar_hoa29
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_HOA29".
+		L5 : IN REGION : "Entering_Building_region".
+apu\sitar_orch001
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_Orch001".
+		L5 : IN REGION : "OF_explore_region".
+		L5 : IN REGION : "Sunday_Drive_region".
+apu\sitar_orch002
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_Orch002".
+		L5 : IN REGION : "OF_explore_region".
+		L5 : IN REGION : "Sunday_Drive_region".
+apu\sitar_orch004
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_Orch004".
+		L5 : IN REGION : "OF_explore_region".
+		L5 : IN REGION : "Sunday_Drive_region".
+apu\sitar_orch005
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_Orch005".
+		L5 : IN REGION : "OF_explore_region".
+		L5 : IN REGION : "Sunday_Drive_region".
+apu\sitar_orch006
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_Orch006".
+		L5 : IN REGION : "OF_explore_region".
+		L5 : IN REGION : "Sunday_Drive_region".
+apu\sitar_orch007
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_Orch007".
+		L5 : IN REGION : "OF_explore_region".
+		L5 : IN REGION : "Sunday_Drive_region".
+apu\sitar_orch008
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_Orch008".
+		L5 : IN REGION : "OF_explore_region".
+		L5 : IN REGION : "Sunday_Drive_region".
+apu\sitar_orch009
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_Orch009".
+		L5 : IN REGION : "OF_explore_region".
+		L5 : IN REGION : "Sunday_Drive_region".
+apu\sitar_orch010
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_Orch010".
+		L5 : IN REGION : "OF_explore_region".
+apu\sitar_orch011
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sitar_Orch011".
+		L5 : IN REGION : "OF_explore_region".
+		L5 : IN REGION : "Sunday_Drive_region".
+banjo_end_neg_b4
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Banjo_End_Neg".
+		L2 : IN REGION : "M5_S1_end_Neg_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Banjo_End_Neg".
+		L3 : IN REGION : "M3_end_Neg_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Banjo_End_Neg".
+		L4 : IN REGION : "M2_end_Neg_region".
+banjo_end_pos
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Banjo_End_Pos".
+		L2 : IN REGION : "M5_S1_end_Pos_region".
+		(L2 : ABOVE REGION OVERRULED AS UNUSED.)
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Banjo_End_Pos".
+		L3 : IN REGION : "M3_end_Pos_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Banjo_End_Pos".
+		L4 : IN REGION : "M2_end_Pos_region".
+banjo_end_sus_b2
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Banjo_End_Sus".
+		L2 : IN REGION : "M5_S1_end_Sus_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Banjo_End_Sus".
+		L3 : IN REGION : "M3_end_Sus_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Banjo_End_Sus".
+		L4 : IN REGION : "M2_end_Sus_region".
+banjo_main
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Banjo_Main".
+		L2 : IN REGION : "M5_S1_main_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Banjo_Main".
+		L3 : IN REGION : "M3_main_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Banjo_Main".
+		L4 : IN REGION : "M2_intro_region".
+		L4 : IN REGION : "M2_main_region".
+bart\bart_guit_001
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_001".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_001".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_002
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_002".
+		L2 : IN REGION : "Level_Intro_region".
+	L2 : USES ALIAS "Bart_Guit_002".
+		L2 : IN REGION : "Level_Intro_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_002".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_003
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_003".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_003".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_004
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_004".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_004".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_005
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_005".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_005".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_006
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_006".
+		L2 : IN REGION : "OF_explore_region".
+	L2 : USES ALIAS "Bart_Guit_006".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_006".
+		L6 : IN REGION : "OF_explore_region".
+	L6 : USES ALIAS "Bart_Guit_006".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_007
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_007".
+		L2 : IN REGION : "OF_explore_region".
+		L2 : IN REGION : "Win_3Street_Races_region".
+		L2 : IN REGION : "Destroy_Camera_Bonus_region".
+		(L2 : ABOVE REGION OVERRULED AS UNUSED.)
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_007".
+		L6 : IN REGION : "OF_explore_region".
+		L6 : IN REGION : "OF_Success_region".
+bart\bart_guit_008
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_008".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_008".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_009
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_009".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_009".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_010
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_010".
+		L2 : IN REGION : "OF_explore_region".
+	L2 : USES ALIAS "Bart_Guit_010".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_010".
+		L6 : IN REGION : "OF_explore_region".
+	L6 : USES ALIAS "Bart_Guit_010".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_011
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_011".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_011".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_012
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_012".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_012".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_013
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_013".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_013".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_014
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_014".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_014".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_015
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_015".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_015".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_016
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_016".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_016".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_017
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_017".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_017".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_018
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_018".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_018".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_019
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_019".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_019".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_020
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_020".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_020".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_021
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_021".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_021".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_022
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_022".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_022".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_023
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_023".
+		L2 : IN REGION : "OF_explore_region".
+	L2 : USES ALIAS "Bart_Guit_023".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_023".
+		L6 : IN REGION : "Level_Intro_region".
+	L6 : USES ALIAS "Bart_Guit_023".
+		L6 : IN REGION : "Level_Intro_region".
+	L6 : USES ALIAS "Bart_Guit_023".
+		L6 : IN REGION : "Level_Intro_region".
+bart\bart_guit_024
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_024".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_024".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_025
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_025".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_025".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_026
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_026".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_026".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_027
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_027".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_027".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_028
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_028".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_028".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_029
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_029".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_029".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_030
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_030".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_030".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_031
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_031".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_031".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_032
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_032".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_032".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_033
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_033".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_033".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_034
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_034".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_034".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_035
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_035".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_035".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_036
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_036".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_036".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_037
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_037".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_037".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_038
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_038".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_038".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_039
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_039".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_039".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_040
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_040".
+		L2 : IN REGION : "OF_explore_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_040".
+		L6 : IN REGION : "OF_explore_region".
+bart\bart_guit_041
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_041".
+		L2 : IN REGION : "Entering_Building_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_041".
+		L6 : IN REGION : "Entering_Building_region".
+	L6 : USES ALIAS "Bart_Guit_041".
+		L6 : IN REGION : "Entering_Building_region".
+bart\bart_guit_042
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_042".
+		L2 : IN REGION : "Entering_Building_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_042".
+		L6 : IN REGION : "Entering_Building_region".
+	L6 : USES ALIAS "Bart_Guit_042".
+		L6 : IN REGION : "Entering_Building_region".
+bart\bart_guit_043
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_043".
+		L2 : IN REGION : "Entering_Building_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_043".
+		L6 : IN REGION : "Entering_Building_region".
+	L6 : USES ALIAS "Bart_Guit_043".
+		L6 : IN REGION : "Entering_Building_region".
+bart\bart_guit_044
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Guit_044".
+		L2 : IN REGION : "Entering_Building_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Guit_044".
+		L6 : IN REGION : "Entering_Building_region".
+	L6 : USES ALIAS "Bart_Guit_044".
+		L6 : IN REGION : "Entering_Building_region".
+bart\gtr_lick01
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Gtr_Lick01".
+		L2 : IN REGION : "OF_found_card_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Gtr_Lick01".
+		L6 : IN REGION : "OF_found_card_region".
+bart\gtr_lick02
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Gtr_Lick02".
+		L2 : IN REGION : "OF_found_card_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Gtr_Lick02".
+		L6 : IN REGION : "OF_found_card_region".
+bart\gtr_lick03
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Gtr_Lick03".
+		L2 : IN REGION : "OF_found_card_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Gtr_Lick03".
+		L6 : IN REGION : "OF_found_card_region".
+bart_chase01
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Chase01".
+		L2 : IN REGION : "M1_main_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Chase01".
+		L6 : IN REGION : "M2_main_region".
+bart_chase01_end_neg1
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Chase01_End_Neg1".
+		L2 : IN REGION : "M1_end_Neg_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Chase01_End_Neg1".
+		L6 : IN REGION : "M2_end_Neg_region".
+bart_chase01_end_neg3
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Chase01_End_Neg3".
+		L2 : IN REGION : "M1_end_Neg_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Chase01_End_Neg3".
+		L6 : IN REGION : "M2_end_Neg_region".
+bart_chase01_end_pos_b4
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Chase01_End_Pos".
+		L2 : IN REGION : "M1_end_Pos_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Chase01_End_Pos".
+		L6 : IN REGION : "M2_end_Pos_region".
+bart_chase01_end_sus
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Chase01_End_Sus".
+		L2 : IN REGION : "M1_end_Sus_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Chase01_End_Sus".
+		L6 : IN REGION : "M2_end_Sus_region".
+bart_chase02
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Chase02".
+		L2 : IN REGION : "M4_Main_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Bart_Chase02".
+		L4 : IN REGION : "M7_S2_Main_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Chase02".
+		L6 : IN REGION : "M5_Main_region".
+bart_chase02_end_neg
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Chase02_End_Neg".
+		L2 : IN REGION : "M4_end_Neg_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Bart_Chase02_End_Neg".
+		L4 : IN REGION : "M7_S2_end_Neg_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Chase02_End_Neg".
+		L6 : IN REGION : "M5_end_Neg_region".
+bart_chase02_end_pos_b4
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Chase02_End_Pos_b4".
+		L2 : IN REGION : "M4_end_Pos_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Bart_Chase02_End_Pos_b4".
+		L4 : IN REGION : "M7_S2_end_Pos_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Chase02_End_Pos_b4".
+		L6 : IN REGION : "M5_end_Pos_region".
+bart_chase02_end_sus1
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Chase02_End_Sus1".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Bart_Chase02_End_Sus1".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Chase02_End_Sus1".
+bart_chase02_end_sus2_b4
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Chase02_End_Sus2_b4".
+		L2 : IN REGION : "M4_end_Sus_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Bart_Chase02_End_Sus2_b4".
+		L4 : IN REGION : "M7_S2_end_Sus_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Chase02_End_Sus2_b4".
+		L6 : IN REGION : "M5_end_Sus_region".
+bart_chase03
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Chase03".
+		L2 : IN REGION : "M2_S2_start_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Bart_Chase03".
+		L5 : IN REGION : "M5_start_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Chase03".
+		L6 : IN REGION : "M6_start_region".
+bart_chase03_end_neg
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Chase03_End_Neg".
+		L2 : IN REGION : "M2_S2_end_Neg_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Bart_Chase03_End_Neg".
+		L5 : IN REGION : "M5_end_Neg_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Chase03_End_Neg".
+		L6 : IN REGION : "M6_end_Neg_region".
+bart_chase03_end_pos
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Chase03_End_Pos".
+		L2 : IN REGION : "M2_S2_end_Pos_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Bart_Chase03_End_Pos".
+		L5 : IN REGION : "M5_end_Pos_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Chase03_End_Pos".
+		L6 : IN REGION : "M6_end_Pos_region".
+bart_chase03_end_sus
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Chase03_End_Sus".
+		L2 : IN REGION : "M2_S2_end_Sus_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Bart_Chase03_End_Sus".
+		L5 : IN REGION : "M5_end_Sus_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Chase03_End_Sus".
+		L6 : IN REGION : "M6_end_Sus_region".
+bart_chase04
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Chase04".
+		L2 : IN REGION : "Sunday_Drive_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Chase04".
+		L6 : IN REGION : "Sunday_Drive_region".
+bart_chase04_end_sus1
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Chase04_End_Sus1".
+		L2 : IN REGION : "Sunday_Drive_Sus_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Chase04_End_Sus1".
+		L6 : IN REGION : "Sunday_Drive_Sus_region".
+bart_chase04_end_sus2
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Chase04_End_Sus2".
+		L2 : IN REGION : "Sunday_Drive_Sus_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Chase04_End_Sus2".
+		L6 : IN REGION : "Sunday_Drive_Sus_region".
+bart_chase04_end_sus3
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Chase04_End_Sus3".
+		L2 : IN REGION : "Sunday_Drive_Sus_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Chase04_End_Sus3".
+		L6 : IN REGION : "Sunday_Drive_Sus_region".
+bollywood01_drama
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Bolly01_Drama".
+		L5 : IN REGION : "M1_start_region".
+		L5 : IN REGION : "M6_drama_region".
+	L5 : USES ALIAS "Bolly01_Drama".
+		L5 : IN REGION : "M1_start_region".
+		L5 : IN REGION : "M6_drama_region".
+bollywood01_end_neg
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Bolly01_End_Neg".
+		L5 : IN REGION : "M1_end_Neg_region".
+		L5 : IN REGION : "M6_end_Neg_region".
+	L5 : USES ALIAS "Bolly01_End_Neg".
+		L5 : IN REGION : "M1_end_Neg_region".
+		L5 : IN REGION : "M6_end_Neg_region".
+bollywood01_end_pos_b3
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Bolly01_End_Pos".
+		L5 : IN REGION : "M1_end_Pos_region".
+		L5 : IN REGION : "M6_end_Pos_region".
+	L5 : USES ALIAS "Bolly01_End_Pos".
+		L5 : IN REGION : "M1_end_Pos_region".
+		L5 : IN REGION : "M6_end_Pos_region".
+bollywood01_end_sus
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Bolly01_End_Sus".
+		L5 : IN REGION : "M1_end_Sus_region".
+		L5 : IN REGION : "M6_end_Sus_region".
+	L5 : USES ALIAS "Bolly01_End_Sus".
+		L5 : IN REGION : "M1_end_Sus_region".
+		L5 : IN REGION : "M6_end_Sus_region".
+bollywood01_main
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Bolly01_Main".
+		L5 : IN REGION : "M1_start_region".
+		L5 : IN REGION : "M6_start_region".
+		L5 : IN REGION : "M6_drama_region".
+	L5 : USES ALIAS "Bolly01_Main".
+		L5 : IN REGION : "M1_start_region".
+		L5 : IN REGION : "M6_start_region".
+		L5 : IN REGION : "M6_drama_region".
+bollywood02_end_neg_b4
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bollywood02_End_Neg".
+		L2 : IN REGION : "M5_S2_end_Neg_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Bollywood02_End_Neg".
+		L5 : IN REGION : "M4_end_Neg_region".
+		L5 : IN REGION : "M7_end_Neg_region".
+	L5 : USES ALIAS "Bollywood02_End_Neg".
+		L5 : IN REGION : "M4_end_Neg_region".
+		L5 : IN REGION : "M7_end_Neg_region".
+bollywood02_end_pos
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bollywood02_End_Pos".
+		L2 : IN REGION : "M5_S2_end_Pos_region".
+		(L2 : ABOVE REGION OVERRULED AS UNUSED.)
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Bollywood02_End_Pos".
+		L5 : IN REGION : "M4_end_Pos_region".
+		L5 : IN REGION : "M7_end_Pos_region".
+	L5 : USES ALIAS "Bollywood02_End_Pos".
+		L5 : IN REGION : "M4_end_Pos_region".
+		L5 : IN REGION : "M7_end_Pos_region".
+bollywood02_end_sus_b4
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bollywood02_End_Sus".
+		L2 : IN REGION : "M5_S2_end_Sus_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Bollywood02_End_Sus".
+		L5 : IN REGION : "M4_end_Sus_region".
+		L5 : IN REGION : "M7_end_Sus_region".
+	L5 : USES ALIAS "Bollywood02_End_Sus".
+		L5 : IN REGION : "M4_end_Sus_region".
+		L5 : IN REGION : "M7_end_Sus_region".
+bollywood02_intro
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bollywood02_Intro".
+		L2 : IN REGION : "M5_S2_main_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Bollywood02_Intro".
+		L5 : IN REGION : "M4_main_region".
+		L5 : IN REGION : "M7_main_region".
+	L5 : USES ALIAS "Bollywood02_Intro".
+		L5 : IN REGION : "M4_main_region".
+		L5 : IN REGION : "M7_main_region".
+bollywood02_main
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bollywood02_Main".
+		L2 : IN REGION : "M5_S2_main_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Bollywood02_Main".
+		L5 : IN REGION : "M4_main_region".
+		L5 : IN REGION : "M7_main_region".
+	L5 : USES ALIAS "Bollywood02_Main".
+		L5 : IN REGION : "M4_main_region".
+		L5 : IN REGION : "M7_main_region".
+bollywood03_end_neg_b4
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Bollywood03_End_Neg".
+		L5 : IN REGION : "M3_end_Neg_region".
+		L5 : IN REGION : "Bonus_end_Neg_region".
+	L5 : USES ALIAS "Bollywood03_End_Neg".
+		L5 : IN REGION : "M3_end_Neg_region".
+		L5 : IN REGION : "Bonus_end_Neg_region".
+bollywood03_end_pos_b3
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Bollywood03_End_Pos".
+		L5 : IN REGION : "M3_end_Pos_region".
+		L5 : IN REGION : "Bonus_end_Pos_region".
+	L5 : USES ALIAS "Bollywood03_End_Pos".
+		L5 : IN REGION : "M3_end_Pos_region".
+		L5 : IN REGION : "Bonus_end_Pos_region".
+bollywood03_end_sus_b4
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Bollywood03_End_Sus".
+		L5 : IN REGION : "M3_end_Sus_region".
+		L5 : IN REGION : "Bonus_end_Sus_region".
+	L5 : USES ALIAS "Bollywood03_End_Sus".
+		L5 : IN REGION : "M3_end_Sus_region".
+		L5 : IN REGION : "Bonus_end_Sus_region".
+bollywood03_main
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Bollywood03_Main".
+		L5 : IN REGION : "M3_main_region".
+		L5 : IN REGION : "Bonus_main_region".
+	L5 : USES ALIAS "Bollywood03_Main".
+		L5 : IN REGION : "M3_main_region".
+		L5 : IN REGION : "Bonus_main_region".
+bollywood03_pickup
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Bollywood03_Intro".
+		L5 : IN REGION : "M3_main_region".
+		L5 : IN REGION : "Bonus_main_region".
+	L5 : USES ALIAS "Bollywood03_Intro".
+		L5 : IN REGION : "M3_main_region".
+		L5 : IN REGION : "Bonus_main_region".
+burn_rubber_end_neg1
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Burning_Rubber_End_Neg1".
+		L1 : IN REGION : "lose_street_race1_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Burning_Rubber_End_Neg1".
+		L2 : IN REGION : "lose_street_race1_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Burning_Rubber_End_Neg1".
+		L3 : IN REGION : "lose_street_race1_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Burning_Rubber_End_Neg1".
+		L4 : IN REGION : "lose_street_race1_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Burning_Rubber_End_Neg1".
+		L5 : IN REGION : "lose_street_race1_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Burning_Rubber_End_Neg1".
+		L6 : IN REGION : "lose_street_race1_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Burning_Rubber_End_Neg1".
+		L7 : IN REGION : "lose_street_race1_region".
+burn_rubber_end_neg2
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Burning_Rubber_End_Neg2".
+		L1 : IN REGION : "lose_street_race1_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Burning_Rubber_End_Neg2".
+		L2 : IN REGION : "lose_street_race1_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Burning_Rubber_End_Neg2".
+		L3 : IN REGION : "lose_street_race1_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Burning_Rubber_End_Neg2".
+		L4 : IN REGION : "lose_street_race1_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Burning_Rubber_End_Neg2".
+		L5 : IN REGION : "lose_street_race1_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Burning_Rubber_End_Neg2".
+		L6 : IN REGION : "lose_street_race1_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Burning_Rubber_End_Neg2".
+		L7 : IN REGION : "lose_street_race1_region".
+burn_rubber_end_pos1
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Burning_Rubber_End_Pos1".
+		L1 : IN REGION : "win_street_race1_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Burning_Rubber_End_Pos1".
+		L2 : IN REGION : "win_street_race1_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Burning_Rubber_End_Pos1".
+		L3 : IN REGION : "win_street_race1_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Burning_Rubber_End_Pos1".
+		L4 : IN REGION : "win_street_race1_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Burning_Rubber_End_Pos1".
+		L5 : IN REGION : "win_street_race1_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Burning_Rubber_End_Pos1".
+		L6 : IN REGION : "win_street_race1_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Burning_Rubber_End_Pos1".
+		L7 : IN REGION : "win_street_race1_region".
+burn_rubber_end_pos2
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Burning_Rubber_End_Pos2".
+		L1 : IN REGION : "win_street_race1_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Burning_Rubber_End_Pos2".
+		L2 : IN REGION : "win_street_race1_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Burning_Rubber_End_Pos2".
+		L3 : IN REGION : "win_street_race1_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Burning_Rubber_End_Pos2".
+		L4 : IN REGION : "win_street_race1_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Burning_Rubber_End_Pos2".
+		L5 : IN REGION : "win_street_race1_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Burning_Rubber_End_Pos2".
+		L6 : IN REGION : "win_street_race1_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Burning_Rubber_End_Pos2".
+		L7 : IN REGION : "win_street_race1_region".
+burn_rubber_end_sus1
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Burning_Rubber_End_Sus1".
+		L1 : IN REGION : "getoutofcar_street_race1_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Burning_Rubber_End_Sus1".
+		L2 : IN REGION : "getoutofcar_street_race1_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Burning_Rubber_End_Sus1".
+		L3 : IN REGION : "getoutofcar_street_race1_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Burning_Rubber_End_Sus1".
+		L4 : IN REGION : "getoutofcar_street_race1_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Burning_Rubber_End_Sus1".
+		L5 : IN REGION : "getoutofcar_street_race1_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Burning_Rubber_End_Sus1".
+		L6 : IN REGION : "getoutofcar_street_race1_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Burning_Rubber_End_Sus1".
+		L7 : IN REGION : "getoutofcar_street_race1_region".
+burn_rubber_end_sus2
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Burning_Rubber_End_Sus2".
+		L1 : IN REGION : "getoutofcar_street_race1_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Burning_Rubber_End_Sus2".
+		L2 : IN REGION : "getoutofcar_street_race1_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Burning_Rubber_End_Sus2".
+		L3 : IN REGION : "getoutofcar_street_race1_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Burning_Rubber_End_Sus2".
+		L4 : IN REGION : "getoutofcar_street_race1_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Burning_Rubber_End_Sus2".
+		L5 : IN REGION : "getoutofcar_street_race1_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Burning_Rubber_End_Sus2".
+		L6 : IN REGION : "getoutofcar_street_race1_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Burning_Rubber_End_Sus2".
+		L7 : IN REGION : "getoutofcar_street_race1_region".
+burning_rubber
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Burning_Rubber".
+		L1 : IN REGION : "street_race1_start_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Burning_Rubber".
+		L2 : IN REGION : "street_race1_start_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Burning_Rubber".
+		L3 : IN REGION : "street_race1_start_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Burning_Rubber".
+		L4 : IN REGION : "street_race1_start_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Burning_Rubber".
+		L5 : IN REGION : "street_race1_start_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Burning_Rubber".
+		L6 : IN REGION : "street_race1_start_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Burning_Rubber".
+		L7 : IN REGION : "street_race1_start_region".
+cbg_end_neg
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "CBG_End_Neg".
+		L2 : IN REGION : "M3_end_Neg_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "CBG_End_Neg".
+		L3 : IN REGION : "M1_end_Neg_region".
+cbg_end_pos
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "CBG_End_Pos".
+		L2 : IN REGION : "M3_end_Pos_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "CBG_End_Pos".
+		L3 : IN REGION : "M1_end_Pos_region".
+cbg_end_sus
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "CBG_End_Sus".
+		L2 : IN REGION : "M3_end_Sus_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "CBG_End_Sus".
+		L3 : IN REGION : "M1_end_Sus_region".
+cbg_main
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "CBG_Main".
+		L2 : IN REGION : "M3_start_region".
+		L2 : IN REGION : "M3_drama_region".
+		(L2 : ABOVE REGION OVERRULED AS UNUSED.)
+		L2 : IN REGION : "M3_victory_region".
+		(L2 : ABOVE REGION OVERRULED AS UNUSED.)
+		L2 : IN REGION : "M3_end_drama_region".
+		(L2 : ABOVE REGION OVERRULED AS UNUSED.)
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "CBG_Main".
+		L3 : IN REGION : "M1_start_region".
+		L3 : IN REGION : "M1_drama_region".
+		(L3 : ABOVE REGION OVERRULED AS UNUSED.)
+		L3 : IN REGION : "M1_victory_region".
+		(L3 : ABOVE REGION OVERRULED AS UNUSED.)
+		L3 : IN REGION : "M1_end_drama_region".
+		(L3 : ABOVE REGION OVERRULED AS UNUSED.)
+cbg_pickup
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "CBG_Pickup".
+		L2 : IN REGION : "M3_start_region".
+		L2 : IN REGION : "M3_drama_region".
+		(L2 : ABOVE REGION OVERRULED AS UNUSED.)
+		L2 : IN REGION : "M3_victory_region".
+		(L2 : ABOVE REGION OVERRULED AS UNUSED.)
+		L2 : IN REGION : "M3_end_drama_region".
+		(L2 : ABOVE REGION OVERRULED AS UNUSED.)
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "CBG_Pickup".
+		L3 : IN REGION : "M1_start_region".
+		L3 : IN REGION : "M1_drama_region".
+		(L3 : ABOVE REGION OVERRULED AS UNUSED.)
+		L3 : IN REGION : "M1_victory_region".
+		(L3 : ABOVE REGION OVERRULED AS UNUSED.)
+		L3 : IN REGION : "M1_end_drama_region".
+		(L3 : ABOVE REGION OVERRULED AS UNUSED.)
+collection01d_drama
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Collection01d_Drama".
+		L1 : IN REGION : "M6_start_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Collection01d_Drama".
+		L3 : IN REGION : "M2_drama_region".
+		(L3 : ABOVE REGION OVERRULED AS UNUSED.)
+collection01d_drama_pickup_b3
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Collection01d_Drama_Pickup".
+		L3 : IN REGION : "M2_drama_region".
+		(L3 : ABOVE REGION OVERRULED AS UNUSED.)
+collection01d_end_neg
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Collection01d_End_Neg".
+		L1 : IN REGION : "M6_end_Neg_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Collection01d_End_Neg".
+		L2 : IN REGION : "M2_S1_end_Neg_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Collection01d_End_Neg".
+		L3 : IN REGION : "M2_end_Neg_region".
+collection01d_end_pos
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Collection01d_End_Pos".
+		L1 : IN REGION : "M6_end_Pos_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Collection01d_End_Pos".
+		L2 : IN REGION : "M2_S1_end_Pos_region".
+		(L2 : ABOVE REGION OVERRULED AS UNUSED.)
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Collection01d_End_Pos".
+		L3 : IN REGION : "M2_end_Pos_region".
+collection01d_end_sus_b2
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Collection01d_End_Sus".
+		L1 : IN REGION : "M6_end_Sus_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Collection01d_End_Sus".
+		L2 : IN REGION : "M2_S1_end_Sus_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Collection01d_End_Sus".
+		L3 : IN REGION : "M2_end_Sus_region".
+collection01d_main
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Collection01d_Main".
+		L1 : IN REGION : "M6_start_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Collection01d_Main".
+		L2 : IN REGION : "M2_S1_start_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Collection01d_Main".
+		L3 : IN REGION : "M2_main_region".
+		L3 : IN REGION : "M2_drama_region".
+		(L3 : ABOVE REGION OVERRULED AS UNUSED.)
+collection01d_pickup_b4
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Collection01d_Pickup".
+		L1 : IN REGION : "M6_start_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Collection01d_Pickup".
+		L2 : IN REGION : "M2_S1_start_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Collection01d_Pickup".
+		L3 : IN REGION : "M2_main_region".
+collection02_end_neg_b4
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Collection02_End_Neg".
+		L1 : IN REGION : "M1_end_Neg_region".
+		L1 : IN REGION : "Bonus_end_Neg_region".
+	L1 : USES ALIAS "Collection02_End_Neg".
+		L1 : IN REGION : "M1_end_Neg_region".
+		L1 : IN REGION : "Bonus_end_Neg_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Collection02_End_Neg".
+		L2 : IN REGION : "Bonus_end_Neg_region".
+collection02_end_pos_b1_3
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Collection02_End_Pos".
+		L1 : IN REGION : "M1_end_Pos_region".
+		L1 : IN REGION : "Bonus_end_Pos_region".
+	L1 : USES ALIAS "Collection02_End_Pos".
+		L1 : IN REGION : "M1_end_Pos_region".
+		L1 : IN REGION : "Bonus_end_Pos_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Collection02_End_Pos".
+		L2 : IN REGION : "Bonus_end_Pos_region".
+collection02_end_sus1_b4
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Collection02_End_Sus1".
+		L1 : IN REGION : "M1_end_Sus_region".
+		L1 : IN REGION : "Bonus_end_Sus_region".
+	L1 : USES ALIAS "Collection02_End_Sus1".
+		L1 : IN REGION : "M1_end_Sus_region".
+		L1 : IN REGION : "Bonus_end_Sus_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Collection02_End_Sus1".
+		L2 : IN REGION : "Bonus_end_Sus_region".
+collection02_end_sus2_b4
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Collection02_End_Sus2".
+		L1 : IN REGION : "M1_end_Sus_region".
+		L1 : IN REGION : "Bonus_end_Sus_region".
+	L1 : USES ALIAS "Collection02_End_Sus2".
+		L1 : IN REGION : "M1_end_Sus_region".
+		L1 : IN REGION : "Bonus_end_Sus_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Collection02_End_Sus2".
+		L2 : IN REGION : "Bonus_end_Sus_region".
+collection02_main
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Collection02_Main".
+		L1 : IN REGION : "M1_start_region".
+		L1 : IN REGION : "Bonus_main_region".
+	L1 : USES ALIAS "Collection02_Main".
+		L1 : IN REGION : "M1_start_region".
+		L1 : IN REGION : "Bonus_main_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Collection02_Main".
+		L2 : IN REGION : "Bonus_main_region".
+collection02_pickup
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Collection02_Pickup".
+		L1 : IN REGION : "M1_start_region".
+		L1 : IN REGION : "Bonus_main_region".
+	L1 : USES ALIAS "Collection02_Pickup".
+		L1 : IN REGION : "M1_start_region".
+		L1 : IN REGION : "Bonus_main_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Collection02_Pickup".
+		L2 : IN REGION : "Bonus_main_region".
+disco_drama
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Disco_Drama".
+		L6 : IN REGION : "M7_start_region".
+disco_end_drama
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Disco_End_Drama".
+		L6 : IN REGION : "M7_end_Neg_region".
+		L6 : IN REGION : "M7_end_drama_region".
+disco_end_neg
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Disco_End_Neg".
+		L6 : IN REGION : "M7_end_Sus_region".
+disco_end_pos
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Disco_End_Pos".
+		L6 : IN REGION : "M7_end_Pos_region".
+disco_end_sus
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Disco_End_Sus".
+		L6 : IN REGION : "M7_end_Sus_region".
+disco_main
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Disco_Main".
+		L6 : IN REGION : "M7_start_region".
+disco_victory
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Disco_Victory".
+		L6 : IN REGION : "M7_start_region".
+duffbeer_spoof
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "DuffBeer_Spoof".
+		L1 : IN REGION : "DuffBeer_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "DuffBeer_Spoof".
+		L2 : IN REGION : "DuffBeer_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "DuffBeer_Spoof".
+		L3 : IN REGION : "DuffBeer_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "DuffBeer_Spoof".
+		L4 : IN REGION : "DuffBeer_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "DuffBeer_Spoof".
+		L5 : IN REGION : "DuffBeer_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "DuffBeer_Spoof".
+		L6 : IN REGION : "DuffBeer_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "DuffBeer_Spoof".
+		L7 : IN REGION : "DuffBeer_region".
+fe_trans01
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "FE_trans01".
+		L1 : IN REGION : "FE_trans01".
+		(L1 : ABOVE REGION OVERRULED AS UNUSED.)
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "FE_trans01".
+		L2 : IN REGION : "FE_trans01".
+		(L2 : ABOVE REGION OVERRULED AS UNUSED.)
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "FE_trans01".
+		L3 : IN REGION : "FE_trans01".
+		(L3 : ABOVE REGION OVERRULED AS UNUSED.)
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "FE_trans01".
+		L4 : IN REGION : "FE_trans01".
+		(L4 : ABOVE REGION OVERRULED AS UNUSED.)
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "FE_trans01".
+		L5 : IN REGION : "FE_trans01".
+		(L5 : ABOVE REGION OVERRULED AS UNUSED.)
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "FE_trans01".
+		L6 : IN REGION : "FE_trans01".
+		(L6 : ABOVE REGION OVERRULED AS UNUSED.)
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "FE_trans01".
+		L7 : IN REGION : "FE_trans01".
+		(L7 : ABOVE REGION OVERRULED AS UNUSED.)
+fe_trans02
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "FE_trans02".
+		L1 : IN REGION : "FE_trans01".
+		(L1 : ABOVE REGION OVERRULED AS UNUSED.)
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "FE_trans02".
+		L2 : IN REGION : "FE_trans01".
+		(L2 : ABOVE REGION OVERRULED AS UNUSED.)
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "FE_trans02".
+		L3 : IN REGION : "FE_trans01".
+		(L3 : ABOVE REGION OVERRULED AS UNUSED.)
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "FE_trans02".
+		L4 : IN REGION : "FE_trans01".
+		(L4 : ABOVE REGION OVERRULED AS UNUSED.)
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "FE_trans02".
+		L5 : IN REGION : "FE_trans01".
+		(L5 : ABOVE REGION OVERRULED AS UNUSED.)
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "FE_trans02".
+		L6 : IN REGION : "FE_trans01".
+		(L6 : ABOVE REGION OVERRULED AS UNUSED.)
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "FE_trans02".
+		L7 : IN REGION : "FE_trans01".
+		(L7 : ABOVE REGION OVERRULED AS UNUSED.)
+fe_trans03
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "FE_trans03".
+		L1 : IN REGION : "FE_trans01".
+		(L1 : ABOVE REGION OVERRULED AS UNUSED.)
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "FE_trans03".
+		L2 : IN REGION : "FE_trans01".
+		(L2 : ABOVE REGION OVERRULED AS UNUSED.)
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "FE_trans03".
+		L3 : IN REGION : "FE_trans01".
+		(L3 : ABOVE REGION OVERRULED AS UNUSED.)
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "FE_trans03".
+		L4 : IN REGION : "FE_trans01".
+		(L4 : ABOVE REGION OVERRULED AS UNUSED.)
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "FE_trans03".
+		L5 : IN REGION : "FE_trans01".
+		(L5 : ABOVE REGION OVERRULED AS UNUSED.)
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "FE_trans03".
+		L6 : IN REGION : "FE_trans01".
+		(L6 : ABOVE REGION OVERRULED AS UNUSED.)
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "FE_trans03".
+		L7 : IN REGION : "FE_trans01".
+		(L7 : ABOVE REGION OVERRULED AS UNUSED.)
+frink_end_neg
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Frink_End_Neg".
+		L2 : IN REGION : "M7_end_Neg_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Frink_End_Neg".
+		L6 : IN REGION : "M3_end_Neg_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Frink_End_Neg".
+		L7 : IN REGION : "M3_end_Neg_region".
+frink_end_pos
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Frink_End_Pos".
+		L2 : IN REGION : "M7_end_Pos_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Frink_End_Pos".
+		L6 : IN REGION : "M3_end_Pos_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Frink_End_Pos".
+		L7 : IN REGION : "M3_end_Pos_region".
+frink_end_sus
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Frink_End_Sus".
+		L2 : IN REGION : "M7_end_Sus_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Frink_End_Sus".
+		L6 : IN REGION : "M3_end_Sus_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Frink_End_Sus".
+		L7 : IN REGION : "M3_end_Sus_region".
+frink_intro
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Frink_Intro".
+		L2 : IN REGION : "M7_start_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Frink_Intro".
+		L6 : IN REGION : "M3_main_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Frink_Intro".
+		L7 : IN REGION : "M3_main_region".
+frink_main
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Frink_Main".
+		L2 : IN REGION : "M7_start_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Frink_Main".
+		L6 : IN REGION : "M3_main_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Frink_Main".
+		L7 : IN REGION : "M3_main_region".
+generic\horn_blast
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Horn_Blast".
+		L1 : IN REGION : "Gated_Mission_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Horn_Blast".
+		L2 : IN REGION : "Gated_Mission_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Horn_Blast".
+		L3 : IN REGION : "Gated_Mission_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Horn_Blast".
+		L4 : IN REGION : "Gated_Mission_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Horn_Blast".
+		L5 : IN REGION : "Gated_Mission_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Horn_Blast".
+		L6 : IN REGION : "Gated_Mission_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Horn_Blast".
+		L7 : IN REGION : "Gated_Mission_region".
+generic\of_explore09
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "OF_explore09".
+		L4 : IN REGION : "OF_explore_region".
+generic\of_explore10
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "OF_explore10".
+		L4 : IN REGION : "OF_explore_region".
+generic\of_explore11
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "OF_explore11".
+		L4 : IN REGION : "OF_explore_region".
+generic\of_explore12
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "OF_explore12".
+		L4 : IN REGION : "OF_explore_region".
+generic\of_explore13
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "OF_explore13".
+		L4 : IN REGION : "OF_explore_region".
+generic\of_explore14
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "OF_explore14".
+		L4 : IN REGION : "OF_explore_region".
+generic\of_explore15
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "OF_explore15".
+		L4 : IN REGION : "OF_explore_region".
+generic\of_explore16
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "OF_explore16".
+		L4 : IN REGION : "OF_explore_region".
+generic\of_explore17
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "OF_explore17".
+		L4 : IN REGION : "OF_explore_region".
+generic\of_explore18
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "OF_explore18".
+		L4 : IN REGION : "OF_explore_region".
+generic\of_explore19
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "OF_explore19".
+		L4 : IN REGION : "OF_explore_region".
+generic\of_time_out01
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "OF_time_out01".
+		L2 : IN REGION : "OF_time_out_region".
+		(L2 : ABOVE REGION OVERRULED AS UNUSED.)
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "OF_time_out01".
+		L3 : IN REGION : "OF_time_out_region".
+		(L3 : ABOVE REGION OVERRULED AS UNUSED.)
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "OF_time_out01".
+		L4 : IN REGION : "OF_time_out_region".
+		(L4 : ABOVE REGION OVERRULED AS UNUSED.)
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "OF_time_out01".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "OF_time_out01".
+		L6 : IN REGION : "OF_time_out_region".
+		(L6 : ABOVE REGION OVERRULED AS UNUSED.)
+generic\of_time_out02
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "OF_time_out02".
+		L2 : IN REGION : "OF_time_out_region".
+		(L2 : ABOVE REGION OVERRULED AS UNUSED.)
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "OF_time_out02".
+		L3 : IN REGION : "OF_time_out_region".
+		(L3 : ABOVE REGION OVERRULED AS UNUSED.)
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "OF_time_out02".
+		L4 : IN REGION : "OF_time_out_region".
+		(L4 : ABOVE REGION OVERRULED AS UNUSED.)
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "OF_time_out02".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "OF_time_out02".
+		L6 : IN REGION : "OF_time_out_region".
+		(L6 : ABOVE REGION OVERRULED AS UNUSED.)
+gogo_drama
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Gogo_Drama".
+		L1 : IN REGION : "M2_drama_region".
+		(L1 : ABOVE REGION OVERRULED AS UNUSED.)
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Gogo_Drama".
+		L4 : IN REGION : "M1_main_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Gogo_Drama".
+		L7 : IN REGION : "M6_drama_region".
+		(L7 : ABOVE REGION OVERRULED AS UNUSED.)
+gogo_drama_pickup
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Gogo_Drama_Pickup".
+		L1 : IN REGION : "M2_drama_region".
+		(L1 : ABOVE REGION OVERRULED AS UNUSED.)
+gogo_end_neg
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Gogo_End_Neg".
+		L1 : IN REGION : "M2_end_Neg_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Gogo_End_Neg".
+		L4 : IN REGION : "M1_end_Neg_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Gogo_End_Neg".
+		L7 : IN REGION : "M6_end_Neg_region".
+gogo_end_pos
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Gogo_End_Pos".
+		L1 : IN REGION : "M2_end_Pos_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Gogo_End_Pos".
+		L4 : IN REGION : "M1_end_Pos_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Gogo_End_Pos".
+		L7 : IN REGION : "M6_end_Pos_region".
+gogo_end_sus
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Gogo_End_Sus".
+		L1 : IN REGION : "M2_end_Sus_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Gogo_End_Sus".
+		L4 : IN REGION : "M1_end_Sus_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Gogo_End_Sus".
+		L7 : IN REGION : "M6_end_Sus_region".
+gogo_main
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Gogo_Main".
+		L1 : IN REGION : "M2_main_region".
+		L1 : IN REGION : "M2_drama_region".
+		(L1 : ABOVE REGION OVERRULED AS UNUSED.)
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Gogo_Main".
+		L4 : IN REGION : "M1_main_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Gogo_Main".
+		L7 : IN REGION : "M6_main_region".
+		L7 : IN REGION : "M6_drama_region".
+		(L7 : ABOVE REGION OVERRULED AS UNUSED.)
+halloween\halloween01
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halloween01".
+		L7 : IN REGION : "OF_explore_region".
+halloween\halloween02
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halloween02".
+		L7 : IN REGION : "OF_explore_region".
+halloween\halloween03
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halloween03".
+		L7 : IN REGION : "OF_explore_region".
+halloween\halloween04
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halloween04".
+		L7 : IN REGION : "OF_explore_region".
+halloween\halloween05
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halloween05".
+		L7 : IN REGION : "OF_explore_region".
+halloween\halloween06
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halloween06".
+		L7 : IN REGION : "OF_explore_region".
+halloween\halloween07
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halloween07".
+		L7 : IN REGION : "OF_explore_region".
+halloween\halloween08
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halloween08".
+		L7 : IN REGION : "OF_explore_region".
+halloween\halloween09
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halloween09".
+		L7 : IN REGION : "OF_explore_region".
+halloween\halloween10
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halloween10".
+		L7 : IN REGION : "OF_explore_region".
+halloween\halloween11
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halloween11".
+		L7 : IN REGION : "OF_explore_region".
+halloween\halloween12
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halloween12".
+		L7 : IN REGION : "OF_explore_region".
+halloween\halloween13
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halloween13".
+		L7 : IN REGION : "OF_explore_region".
+halloween\halloween14
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halloween14".
+		L7 : IN REGION : "OF_explore_region".
+halloween\halloween15
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halloween15".
+		L7 : IN REGION : "OF_explore_region".
+halloween\halloween16
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halloween16".
+		L7 : IN REGION : "OF_explore_region".
+halloween\halloween17
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halloween17".
+		L7 : IN REGION : "OF_explore_region".
+halloween\halloween18
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halloween18".
+		L7 : IN REGION : "Level_Intro_region".
+	L7 : USES ALIAS "Halloween18".
+		L7 : IN REGION : "Level_Intro_region".
+halloween\halloween19
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halloween19".
+		L7 : IN REGION : "OF_explore_region".
+halloween\halloween20
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halloween20".
+		L7 : IN REGION : "OF_explore_region".
+halloween\halloween21
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halloween21".
+		L7 : IN REGION : "OF_explore_region".
+halloween\halloween22
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halloween22".
+		L7 : IN REGION : "OF_explore_region".
+halloween\halloween23
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halloween23".
+		L7 : IN REGION : "Entering_Building_region".
+halloween\halloween24
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halloween24".
+		L7 : IN REGION : "Entering_Building_region".
+halloween\of_drama01
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "OF_Drama01".
+		L7 : IN REGION : "OF_explore_region".
+halloween\of_explore06
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "OF_explore06".
+		L7 : IN REGION : "OF_explore_region".
+halloween\of_ufo
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "OF_UFO".
+		L7 : IN REGION : "OF_explore_region".
+halloween\organ_music
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Organ_Music".
+		L7 : IN REGION : "StoneCutters_Tunnel_region".
+		(L7 : ABOVE REGION OVERRULED AS UNUSED.)
+halloween_end_neg
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halloween_End_Neg".
+		L7 : IN REGION : "M1_end_Neg_region".
+halloween_end_pos
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halloween_End_Pos".
+		L7 : IN REGION : "M1_end_Pos_region".
+halloween_end_sus
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halloween_End_Sus".
+		L7 : IN REGION : "Sunday_Drive_Sus_region".
+		L7 : IN REGION : "M1_end_Sus_region".
+	L7 : USES ALIAS "Halloween_End_Sus".
+		L7 : IN REGION : "Sunday_Drive_Sus_region".
+		L7 : IN REGION : "M1_end_Sus_region".
+halloween_intro
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halloween_Intro".
+		L7 : IN REGION : "Sunday_Drive_region".
+		L7 : IN REGION : "M1_start_region".
+	L7 : USES ALIAS "Halloween_Intro".
+		L7 : IN REGION : "Sunday_Drive_region".
+		L7 : IN REGION : "M1_start_region".
+halloween_main
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halloween_Main".
+		L7 : IN REGION : "Sunday_Drive_region".
+		L7 : IN REGION : "M1_start_region".
+	L7 : USES ALIAS "Halloween_Main".
+		L7 : IN REGION : "Sunday_Drive_region".
+		L7 : IN REGION : "M1_start_region".
+halls_balls
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Halls_Balls".
+		L6 : IN REGION : "Bonus_main_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halls_Balls".
+		L7 : IN REGION : "M4_S1_main_region".
+hallsballs_end_neg2
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Halls_Balls_End_Neg".
+		L6 : IN REGION : "Bonus_end_Neg_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halls_Balls_End_Neg".
+		L7 : IN REGION : "M4_S1_end_Neg_region".
+hallsballs_end_pos2
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Halls_Balls_End_Pos".
+		L6 : IN REGION : "Bonus_end_Pos_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halls_Balls_End_Pos".
+		L7 : IN REGION : "M4_S1_end_Pos_region".
+		(L7 : ABOVE REGION OVERRULED AS UNUSED.)
+hallsballs_end_sus2
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Halls_Balls_End_Sus".
+		L6 : IN REGION : "Bonus_end_Sus_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halls_Balls_End_Sus".
+		L7 : IN REGION : "M4_S1_end_Sus_region".
+harp_music04
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Harp_Music04".
+		L1 : IN REGION : "OF_Apu_Oasis_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Harp_Music04".
+		L2 : IN REGION : "OF_Apu_Oasis_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Harp_Music04".
+		L3 : IN REGION : "OF_Apu_Oasis_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Harp_Music04".
+		L4 : IN REGION : "OF_Apu_Oasis_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Harp_Music04".
+		L5 : IN REGION : "OF_Apu_Oasis_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Harp_Music04".
+		L6 : IN REGION : "OF_Apu_Oasis_region".
+harp_music05
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Harp_Music05".
+		L1 : IN REGION : "OF_Apu_Oasis_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Harp_Music05".
+		L2 : IN REGION : "OF_Apu_Oasis_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Harp_Music05".
+		L3 : IN REGION : "OF_Apu_Oasis_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Harp_Music05".
+		L4 : IN REGION : "OF_Apu_Oasis_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Harp_Music05".
+		L5 : IN REGION : "OF_Apu_Oasis_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Harp_Music05".
+		L6 : IN REGION : "OF_Apu_Oasis_region".
+hit_run_end_neg
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Hit_Run_End_Neg".
+		L1 : IN REGION : "Hit_Run_Caught_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Hit_Run_End_Neg".
+		L2 : IN REGION : "Hit_Run_Caught_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Hit_Run_End_Neg".
+		L3 : IN REGION : "Hit_Run_Caught_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Hit_Run_End_Neg".
+		L4 : IN REGION : "Hit_Run_Caught_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Hit_Run_End_Neg".
+		L5 : IN REGION : "Hit_Run_Caught_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Hit_Run_End_Neg".
+		L6 : IN REGION : "Hit_Run_Caught_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Hit_Run_End_Neg".
+		L7 : IN REGION : "Hit_Run_Caught_region".
+hit_run_intro
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Hit_Run_Intro".
+		L1 : IN REGION : "Hit_Run_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Hit_Run_Intro".
+		L2 : IN REGION : "Hit_Run_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Hit_Run_Intro".
+		L3 : IN REGION : "Hit_Run_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Hit_Run_Intro".
+		L4 : IN REGION : "Hit_Run_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Hit_Run_Intro".
+		L5 : IN REGION : "Hit_Run_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Hit_Run_Intro".
+		L6 : IN REGION : "Hit_Run_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Hit_Run_Intro".
+		L7 : IN REGION : "Hit_Run_region".
+hit_run_main
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Hit_Run_Main".
+		L1 : IN REGION : "Hit_Run_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Hit_Run_Main".
+		L2 : IN REGION : "Hit_Run_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Hit_Run_Main".
+		L3 : IN REGION : "Hit_Run_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Hit_Run_Main".
+		L4 : IN REGION : "Hit_Run_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Hit_Run_Main".
+		L5 : IN REGION : "Hit_Run_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Hit_Run_Main".
+		L6 : IN REGION : "Hit_Run_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Hit_Run_Main".
+		L7 : IN REGION : "Hit_Run_region".
+homer\homer_reward01
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Homer_Reward01".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Homer_Reward01".
+homer\homer_reward02
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Homer_Reward02".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Homer_Reward02".
+homer\tuba_001
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_001".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_002
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_002".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_003
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_003".
+		L1 : IN REGION : "OF_explore_region".
+	L1 : USES ALIAS "Tuba_004".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_005
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_005".
+		L1 : IN REGION : "Entering_Building_region".
+homer\tuba_006
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_006".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_007
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_007".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_008
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_008".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_009
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_009".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_010
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_010".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_011
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_011".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_012
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_012".
+		L1 : IN REGION : "Entering_Building_region".
+homer\tuba_013
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_013".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_014
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_014".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_015
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_015".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_016
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_016".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_017
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_017".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_018
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_018".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_019
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_019".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_020
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_020".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_021
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_021".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_022
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_022".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_023
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_023".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_025
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_025".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_026
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_026".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_027
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_027".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_028
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_028".
+		L1 : IN REGION : "OF_explore_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Tuba_028".
+homer\tuba_029
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_029".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_030
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_030".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_031
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_031".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_032
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_032".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_033
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_033".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_034
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_034".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_035
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_035".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_036
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_036".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_037
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_037".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_038
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_038".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_039
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_039".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_040
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_040".
+		L1 : IN REGION : "OF_found_card_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Tuba_040".
+		L7 : IN REGION : "OF_found_card_region".
+homer\tuba_041
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_041".
+		L1 : IN REGION : "OF_found_card_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Tuba_041".
+		L7 : IN REGION : "OF_found_card_region".
+homer\tuba_042
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_042".
+		L1 : IN REGION : "OF_found_card_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Tuba_042".
+		L7 : IN REGION : "OF_found_card_region".
+homer\tuba_043
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_043".
+		L1 : IN REGION : "OF_found_card_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Tuba_043".
+		L7 : IN REGION : "OF_found_card_region".
+homer\tuba_044
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_044".
+		L1 : IN REGION : "OF_time_out_region".
+		(L1 : ABOVE REGION OVERRULED AS UNUSED.)
+homer\tuba_049
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_049".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_050
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_050".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_051
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_051".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_052
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_052".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_053
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_053".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Tuba_053".
+homer\tuba_054
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_054".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_055
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_055".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_056
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_056".
+		L1 : IN REGION : "Level_Intro_region".
+	L1 : USES ALIAS "Tuba_056".
+		L1 : IN REGION : "Level_Intro_region".
+homer\tuba_057
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_057".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_058
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_058".
+		L1 : IN REGION : "Level_Intro_region".
+	L1 : USES ALIAS "Tuba_058".
+		L1 : IN REGION : "Level_Intro_region".
+homer\tuba_059
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_059".
+	L1 : USES ALIAS "Tuba_059".
+homer\tuba_060
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_060".
+		L1 : IN REGION : "Level_Intro_region".
+	L1 : USES ALIAS "Tuba_060".
+		L1 : IN REGION : "Level_Intro_region".
+homer\tuba_061
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_061".
+	L1 : USES ALIAS "Tuba_061".
+homer\tuba_062
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_062".
+		L1 : IN REGION : "OF_time_out_region".
+		(L1 : ABOVE REGION OVERRULED AS UNUSED.)
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Tuba_062".
+		L7 : IN REGION : "OF_found_card_region".
+homer\tuba_063
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_063".
+		L1 : IN REGION : "OF_time_out_region".
+		(L1 : ABOVE REGION OVERRULED AS UNUSED.)
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Tuba_063".
+		L7 : IN REGION : "OF_found_card_region".
+homer\tuba_064
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_064".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_065
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_065".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_068
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_068".
+		L1 : IN REGION : "OF_explore_region".
+homer\tuba_069
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_069".
+		L1 : IN REGION : "OF_explore_region".
+horn_triumph
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Horn_triumph".
+		L1 : IN REGION : "Win_3Street_Races_region".
+		L1 : IN REGION : "Level_Completed_region".
+		(L1 : ABOVE REGION OVERRULED AS UNUSED.)
+		L1 : IN REGION : "Destroy_Camera_Bonus_region".
+		(L1 : ABOVE REGION OVERRULED AS UNUSED.)
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Horn_triumph".
+		L7 : IN REGION : "Win_3Street_Races_region".
+		L7 : IN REGION : "Destroy_Camera_Bonus_region".
+		(L7 : ABOVE REGION OVERRULED AS UNUSED.)
+in_game01b_cymbal
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "In_game01b_Cymbal".
+		L1 : IN REGION : "M3_drama_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "In_game01b_Cymbal".
+		L3 : IN REGION : "M7_drama_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "In_game01b_Cymbal".
+		L7 : IN REGION : "Bonus_drama_region".
+in_game01b_drama
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "In_game01b_Drama".
+		L1 : IN REGION : "M3_drama_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "In_game01b_Drama".
+		L3 : IN REGION : "M7_drama_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "In_game01b_Drama".
+		L7 : IN REGION : "Bonus_drama_region".
+in_game01b_end_neg_a
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "In_game01b_End_Neg_a".
+		L7 : IN REGION : "Bonus_end_Neg_region".
+in_game01b_end_neg_b
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "In_game01b_End_Neg_b".
+		L1 : IN REGION : "M3_end_Neg_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "In_game01b_End_Neg_b".
+		L3 : IN REGION : "M7_end_Neg_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "In_game01b_End_Neg_b".
+		L7 : IN REGION : "Bonus_end_Neg_region".
+in_game01b_end_pos
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "In_game01b_End_Pos".
+		L1 : IN REGION : "M3_end_Pos_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "In_game01b_End_Pos".
+		L3 : IN REGION : "M7_end_Pos_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "In_game01b_End_Pos".
+		L7 : IN REGION : "Bonus_end_Pos_region".
+in_game01b_end_sus
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "In_game01b_End_Sus".
+		L1 : IN REGION : "M3_end_Sus_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "In_game01b_End_Sus".
+		L3 : IN REGION : "M7_end_Sus_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "In_game01b_End_Sus".
+		L7 : IN REGION : "Bonus_end_Sus_region".
+in_game01b_main
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "In_game01b_Main".
+		L1 : IN REGION : "M3_main_region".
+		L1 : IN REGION : "M3_drama_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "In_game01b_Main".
+		L3 : IN REGION : "M7_main_region".
+		L3 : IN REGION : "M7_drama_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "In_game01b_Main".
+		L7 : IN REGION : "Bonus_main_region".
+land_of_choc_end_neg
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Land_of_Choc_End_Neg".
+		L7 : IN REGION : "M4_S2_end_Neg_region".
+		(L7 : ABOVE REGION OVERRULED AS UNUSED.)
+land_of_choc_end_pos
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Land_of_Choc_End_Pos".
+		L7 : IN REGION : "M4_S2_end_Pos_region".
+land_of_choc_main
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Land_of_Choc_Main".
+		L1 : IN REGION : "Credits_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Land_of_Choc_Main".
+		L2 : IN REGION : "Credits_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Land_of_Choc_Main".
+		L3 : IN REGION : "Credits_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Land_of_Choc_Main".
+		L4 : IN REGION : "Credits_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Land_of_Choc_Main".
+		L5 : IN REGION : "Credits_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Land_of_Choc_Main".
+		L6 : IN REGION : "Credits_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Land_of_Choc_Main".
+		L7 : IN REGION : "M4_S2_Main_region".
+		L7 : IN REGION : "Credits_region".
+	L7 : USES ALIAS "Land_of_Choc_Main".
+		L7 : IN REGION : "M4_S2_Main_region".
+		L7 : IN REGION : "Credits_region".
+lisa\bari_sax001
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax001".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax002
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax002".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax003
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax003".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax004
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax004".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax005
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax005".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax006
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax006".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax007
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax007".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax008
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax008".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax009
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax009".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax010
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax010".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax011
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax011".
+		L3 : IN REGION : "Entering_Building_region".
+lisa\bari_sax012
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax012".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax013
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax013".
+		L3 : IN REGION : "Entering_Building_region".
+lisa\bari_sax014
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax014".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax015
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax015".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax016
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax016".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax017
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax017".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax018
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax018".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax019
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax019".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax020
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax020".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax021
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax021".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax022
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax022".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax023
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax023".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax024
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax024".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax025
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax025".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax026
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax026".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax027
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax027".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax028
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax028".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax032
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax032".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax033
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax033".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax034
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax034".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax035
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax035".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax036
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax036".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax037
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax037".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax038
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax038".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax039
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax039".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax040
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax040".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax041
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax041".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax042
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax042".
+		L3 : IN REGION : "Entering_Building_region".
+lisa\bari_sax043
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax043".
+		L3 : IN REGION : "Entering_Building_region".
+lisa\bari_sax044
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax044".
+		L3 : IN REGION : "Entering_Building_region".
+lisa\bari_sax045
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax045".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax046
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax046".
+		L3 : IN REGION : "Entering_Building_region".
+lisa\bari_sax047
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax047".
+		L3 : IN REGION : "Entering_Building_region".
+lisa\bari_sax048
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax048".
+		L3 : IN REGION : "Entering_Building_region".
+lisa\bari_sax049
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax049".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax050
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax050".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax051
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax051".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax052
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax052".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax053
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax053".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax054
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax054".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax055
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax055".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax056
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax056".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax057
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax057".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax058
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax058".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax059
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax059".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax060
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax060".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax061
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax061".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax062
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax062".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax063
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax063".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax064
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax064".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax065
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax065".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax066
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax066".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax067
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax067".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax068
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax068".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax069
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax069".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax070
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax070".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax071
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax071".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax072
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax072".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax073
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax073".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax074
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax074".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax075
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax075".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax076
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax076".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax077
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax077".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax078
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax078".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax079
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax079".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax080
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax080".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax081
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax081".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax082
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax082".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax083
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax083".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax084
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax084".
+		L3 : IN REGION : "Level_Intro_region".
+	L3 : USES ALIAS "Bari_Sax084".
+		L3 : IN REGION : "Level_Intro_region".
+lisa\bari_sax085
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax085".
+		L3 : IN REGION : "Level_Intro_region".
+	L3 : USES ALIAS "Bari_Sax085".
+		L3 : IN REGION : "Level_Intro_region".
+lisa\bari_sax086
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax086".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax087
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax087".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax088
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax088".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax089
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax089".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax090
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax090".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax091
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax091".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax092
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax092".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax093
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax093".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax094
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax094".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax095
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax095".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax096
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax096".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax097
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax097".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax098
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax098".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax099
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax099".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax100
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax100".
+		L3 : IN REGION : "OF_win_region".
+lisa\bari_sax101
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax101".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax102
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax102".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax103
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax103".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax104
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax104".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax105
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax105".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax106
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax106".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax107
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax107".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax108
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax108".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax109
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax109".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax110
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax110".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax111
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax111".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax112
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax112".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax113
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax113".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax114
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax114".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax115
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax115".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax116
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax116".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax117
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax117".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax118
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax118".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax119
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax119".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax120
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax120".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax121
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax121".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax122
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax122".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax123
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax123".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax124
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax124".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax125
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax125".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax126
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax126".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax127
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax127".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax128
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax128".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax129
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax129".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax130
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax130".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax131
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax131".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax132
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax132".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax133
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax133".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax134
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax134".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax135
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax135".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax136
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax136".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax137
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax137".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax138
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax138".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax139
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax139".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax140
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax140".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax141
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax141".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax142
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax142".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax143
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax143".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax144
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax144".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax145
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax145".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax146
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax146".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax147
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax147".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax148
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax148".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax149
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax149".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax150
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax150".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax151
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax151".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax152
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax152".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax153
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax153".
+		L3 : IN REGION : "OF_explore_region".
+lisa\bari_sax154
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bari_Sax154".
+		L3 : IN REGION : "OF_explore_region".
+lisa\lisa_reward01
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Lisa_Reward01".
+		L3 : IN REGION : "OF_found_card_region".
+lisa\lisa_reward02
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Lisa_Reward02".
+		L3 : IN REGION : "OF_found_card_region".
+marge\harpgliss01
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "HarpGliss01".
+		L4 : IN REGION : "OF_found_card_region".
+marge\harpgliss02
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "HarpGliss02".
+		L4 : IN REGION : "OF_found_card_region".
+marge\harpgliss03
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "HarpGliss03".
+		L4 : IN REGION : "OF_found_card_region".
+marge\lounge001
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge001".
+		L4 : IN REGION : "Level_Intro_region".
+	L4 : USES ALIAS "Lounge001".
+		L4 : IN REGION : "Level_Intro_region".
+marge\lounge002
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge002".
+		L4 : IN REGION : "OF_explore_region".
+marge\lounge003
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge003".
+		L4 : IN REGION : "OF_explore_region".
+marge\lounge004
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge004".
+		L4 : IN REGION : "OF_explore_region".
+marge\lounge005
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge005".
+		L4 : IN REGION : "OF_explore_region".
+marge\lounge006
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge006".
+		L4 : IN REGION : "OF_explore_region".
+marge\lounge007
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge007".
+		L4 : IN REGION : "OF_explore_region".
+marge\lounge008
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge008".
+		L4 : IN REGION : "OF_explore_region".
+		L4 : IN REGION : "OF_victory_region".
+marge\lounge009
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge009".
+		L4 : IN REGION : "OF_explore_region".
+marge\lounge010
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge010".
+marge\lounge011
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge011".
+		L4 : IN REGION : "OF_explore_region".
+marge\lounge012
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge012".
+		L4 : IN REGION : "OF_explore_region".
+marge\lounge013
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge013".
+		L4 : IN REGION : "OF_explore_region".
+marge\lounge014
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge014".
+		L4 : IN REGION : "OF_explore_region".
+marge\lounge015
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge015".
+		L4 : IN REGION : "OF_explore_region".
+marge\lounge016
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge016".
+		L4 : IN REGION : "OF_explore_region".
+marge\lounge017
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge017".
+		L4 : IN REGION : "OF_explore_region".
+marge\lounge018
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge018".
+		L4 : IN REGION : "OF_explore_region".
+marge\lounge019
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge019".
+		L4 : IN REGION : "OF_explore_region".
+marge\lounge020
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge020".
+		L4 : IN REGION : "OF_explore_region".
+marge\lounge021
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge021".
+		L4 : IN REGION : "OF_explore_region".
+marge\lounge022
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge022".
+		L4 : IN REGION : "OF_explore_region".
+marge\lounge023
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge023".
+		L4 : IN REGION : "OF_explore_region".
+marge\lounge024
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge024".
+		L4 : IN REGION : "OF_explore_region".
+marge\lounge025
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge025".
+		L4 : IN REGION : "OF_explore_region".
+marge\lounge_trans01
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge_Trans01".
+		L4 : IN REGION : "Entering_Building_region".
+marge\lounge_trans02
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge_Trans02".
+		L4 : IN REGION : "Entering_Building_region".
+marge\lounge_trans03
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge_Trans03".
+		L4 : IN REGION : "Entering_Building_region".
+marge\lounge_trans04
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge_Trans04".
+		L4 : IN REGION : "Entering_Building_region".
+marge\lounge_trans05
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge_Trans05".
+		L4 : IN REGION : "Entering_Building_region".
+marge\lounge_trans06
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge_Trans06".
+marge\of_explore01
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "OF_explore01".
+		L4 : IN REGION : "OF_explore_region".
+marge\of_explore03
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "OF_explore03".
+		L4 : IN REGION : "OF_explore_region".
+marge\of_explore04
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "OF_explore04".
+		L4 : IN REGION : "OF_explore_region".
+marge\of_explore05
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "OF_explore05".
+		L4 : IN REGION : "OF_explore_region".
+marge\of_explore07
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "OF_explore07".
+		L4 : IN REGION : "OF_explore_region".
+marge\of_explore08
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "OF_explore08".
+		L4 : IN REGION : "OF_explore_region".
+marge\of_search_for_clue01
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "OF_search_for_clue01".
+		L4 : IN REGION : "OF_explore_region".
+marge\of_search_for_clue02
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "OF_search_for_clue02".
+		L4 : IN REGION : "OF_explore_region".
+marge\tuba_024
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Tuba_024".
+marge_mission01b_end_neg
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "M3_End_Neg".
+		L4 : IN REGION : "M3_end_Neg_region".
+	L4 : USES ALIAS "M7_S1_End_Neg".
+		L4 : IN REGION : "M7_S1_end_Neg_region".
+marge_mission01b_end_pos
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "M3_End_Pos".
+		L4 : IN REGION : "M3_end_Pos_region".
+	L4 : USES ALIAS "M7_S1_End_Pos".
+		L4 : IN REGION : "M7_S1_end_Pos_region".
+		(L4 : ABOVE REGION OVERRULED AS UNUSED.)
+marge_mission01b_end_sus1
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "M3_End_Sus".
+		L4 : IN REGION : "M3_end_Sus_region".
+	L4 : USES ALIAS "M7_S1_End_Sus".
+		L4 : IN REGION : "M7_S1_end_Sus_region".
+marge_mission01b_end_sus2
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "M3_End_Sus2".
+		L4 : IN REGION : "M3_end_Sus_region".
+	L4 : USES ALIAS "M7_S1_End_Sus2".
+		L4 : IN REGION : "M7_S1_end_Sus_region".
+marge_mission01b_main
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "M3_Main".
+		L4 : IN REGION : "M3_main_region".
+	L4 : USES ALIAS "M7_S1_Main".
+		L4 : IN REGION : "M7_S1_main_region".
+margesamba_end_neg
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "MargeSamba_End_Neg".
+		L4 : IN REGION : "M5_end_Neg_region".
+margesamba_end_pos_b3
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "MargeSamba_End_Pos".
+		L4 : IN REGION : "M5_end_Pos_region".
+margesamba_end_sus
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "MargeSamba_End_Sus".
+		L4 : IN REGION : "M5_end_Sus_region".
+margesamba_intro
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "MargeSamba_Intro".
+		L4 : IN REGION : "M5_start_region".
+margesamba_main
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "MargeSamba_Main".
+		L4 : IN REGION : "M5_start_region".
+minigame\casio_tune01
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Casio_tune01".
+		L1 : IN REGION : "SS_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Casio_tune01".
+		L2 : IN REGION : "SS_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Casio_tune01".
+		L3 : IN REGION : "SS_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Casio_tune01".
+		L4 : IN REGION : "SS_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Casio_tune01".
+		L5 : IN REGION : "SS_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Casio_tune01".
+		L6 : IN REGION : "SS_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Casio_tune01".
+		L7 : IN REGION : "SS_region".
+minigame\casio_tune02
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Casio_tune02".
+		L1 : IN REGION : "SS_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Casio_tune02".
+		L2 : IN REGION : "SS_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Casio_tune02".
+		L3 : IN REGION : "SS_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Casio_tune02".
+		L4 : IN REGION : "SS_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Casio_tune02".
+		L5 : IN REGION : "SS_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Casio_tune02".
+		L6 : IN REGION : "SS_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Casio_tune02".
+		L7 : IN REGION : "SS_region".
+minigame\casio_tune07
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Casio_tune07".
+		L1 : IN REGION : "SS_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Casio_tune07".
+		L2 : IN REGION : "SS_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Casio_tune07".
+		L3 : IN REGION : "SS_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Casio_tune07".
+		L4 : IN REGION : "SS_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Casio_tune07".
+		L5 : IN REGION : "SS_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Casio_tune07".
+		L6 : IN REGION : "SS_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Casio_tune07".
+		L7 : IN REGION : "SS_region".
+minigame\casio_tune08
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Casio_tune08".
+		L1 : IN REGION : "SS_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Casio_tune08".
+		L2 : IN REGION : "SS_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Casio_tune08".
+		L3 : IN REGION : "SS_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Casio_tune08".
+		L4 : IN REGION : "SS_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Casio_tune08".
+		L5 : IN REGION : "SS_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Casio_tune08".
+		L6 : IN REGION : "SS_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Casio_tune08".
+		L7 : IN REGION : "SS_region".
+minigame\casio_tune09
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Casio_tune09".
+		L1 : IN REGION : "SS_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Casio_tune09".
+		L2 : IN REGION : "SS_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Casio_tune09".
+		L3 : IN REGION : "SS_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Casio_tune09".
+		L4 : IN REGION : "SS_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Casio_tune09".
+		L5 : IN REGION : "SS_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Casio_tune09".
+		L6 : IN REGION : "SS_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Casio_tune09".
+		L7 : IN REGION : "SS_region".
+minigame\lose_mini_game02
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "lose_mini_game02".
+		L1 : IN REGION : "Lose_SS_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "lose_mini_game02".
+		L2 : IN REGION : "Lose_SS_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "lose_mini_game02".
+		L3 : IN REGION : "Lose_SS_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "lose_mini_game02".
+		L4 : IN REGION : "Lose_SS_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "lose_mini_game02".
+		L5 : IN REGION : "Lose_SS_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "lose_mini_game02".
+		L6 : IN REGION : "Lose_SS_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "lose_mini_game02".
+		L7 : IN REGION : "Lose_SS_region".
+minigame\win_mini_game
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "win_mini_game".
+		L1 : IN REGION : "Win_SS_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "win_mini_game".
+		L2 : IN REGION : "Win_SS_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "win_mini_game".
+		L3 : IN REGION : "Win_SS_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "win_mini_game".
+		L4 : IN REGION : "Win_SS_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "win_mini_game".
+		L5 : IN REGION : "Win_SS_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "win_mini_game".
+		L6 : IN REGION : "Win_SS_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "win_mini_game".
+		L7 : IN REGION : "Win_SS_region".
+motown_end_neg
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "M5_End_Neg".
+		L1 : IN REGION : "M5_end_Neg_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "M6_End_Neg".
+		L3 : IN REGION : "M6_end_Neg_region".
+motown_end_pos
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "M5_End_Pos".
+		L1 : IN REGION : "M5_end_Pos_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "M6_End_Pos".
+		L3 : IN REGION : "M6_end_Pos_region".
+motown_end_sus
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "M5_End_Sus".
+		L1 : IN REGION : "M5_end_Sus_region".
+		(L1 : ABOVE REGION OVERRULED AS UNUSED.)
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Sunday_Drive_End_Sus".
+		L3 : IN REGION : "Sunday_Drive_Sus_region".
+	L3 : USES ALIAS "M6_End_Sus".
+		L3 : IN REGION : "M6_end_Sus_region".
+motown_intro
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "M5_Intro".
+		L1 : IN REGION : "M5_main_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "M5_Intro".
+		L3 : IN REGION : "M5_main_region".
+motown_intro_end_neg
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "M5_End_Neg".
+		L3 : IN REGION : "M5_end_Neg_region".
+motown_intro_end_pos
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "M5_End_Pos".
+		L3 : IN REGION : "M5_end_Pos_region".
+motown_intro_end_sus
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "M5_End_Sus".
+		L3 : IN REGION : "M5_end_Sus_region".
+motown_main
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Sunday_Drive".
+		L3 : IN REGION : "Sunday_Drive_region".
+	L3 : USES ALIAS "M6_Main".
+		L3 : IN REGION : "M6_start_region".
+muzak
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Muzak".
+		L1 : IN REGION : "Store_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Muzak".
+		L2 : IN REGION : "Store_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Muzak".
+		L3 : IN REGION : "Store_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Muzak".
+		L4 : IN REGION : "Store_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Muzak".
+		L5 : IN REGION : "Store_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Muzak".
+		L6 : IN REGION : "Store_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Muzak".
+		L7 : IN REGION : "Store_region".
+newspaper_spin01
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "FE_trans04".
+		L1 : IN REGION : "FE_trans02".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "FE_trans04".
+		L2 : IN REGION : "FE_trans02".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "FE_trans04".
+		L3 : IN REGION : "FE_trans02".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "FE_trans04".
+		L4 : IN REGION : "FE_trans02".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "FE_trans04".
+		L5 : IN REGION : "FE_trans02".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "FE_trans04".
+		L6 : IN REGION : "FE_trans02".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "FE_trans04".
+		L7 : IN REGION : "FE_trans02".
+newspaper_spin02
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "FE_trans05".
+		L1 : IN REGION : "FE_trans02".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "FE_trans05".
+		L2 : IN REGION : "FE_trans02".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "FE_trans05".
+		L3 : IN REGION : "FE_trans02".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "FE_trans05".
+		L4 : IN REGION : "FE_trans02".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "FE_trans05".
+		L5 : IN REGION : "FE_trans02".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "FE_trans05".
+		L6 : IN REGION : "FE_trans02".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "FE_trans05".
+		L7 : IN REGION : "FE_trans02".
+nick_end_neg
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Nick_End_Neg".
+		L2 : IN REGION : "M6_end_Neg_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Nick_End_Neg".
+		L4 : IN REGION : "M6_end_Neg_region".
+nick_end_pos
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Nick_End_Pos".
+		L2 : IN REGION : "M6_end_Pos_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Nick_End_Pos".
+		L4 : IN REGION : "M6_end_Pos_region".
+nick_end_sus
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Nick_End_Sus".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Nick_End_Sus".
+		L4 : IN REGION : "M6_end_Sus_region".
+		(L4 : ABOVE REGION OVERRULED AS UNUSED.)
+nick_intro
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Nick_Intro".
+		L2 : IN REGION : "M6_start_region".
+		L2 : IN REGION : "M6_end_Sus_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Nick_Intro".
+		L4 : IN REGION : "M6_start_region".
+nick_main
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Nick_Main".
+		L2 : IN REGION : "M6_start_region".
+		L2 : IN REGION : "M6_end_Sus_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Nick_Main".
+		L4 : IN REGION : "M6_start_region".
+orch_chase01_drama
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Orch_Chase01_Drama".
+		L1 : IN REGION : "M7_drama_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Orch_Chase01_Drama".
+		L4 : IN REGION : "M4_drama_region".
+		(L4 : ABOVE REGION OVERRULED AS UNUSED.)
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Orch_Chase01_Drama".
+		L7 : IN REGION : "M7_drama_region".
+		(L7 : ABOVE REGION OVERRULED AS UNUSED.)
+orch_chase01_drama_pickup_b3
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Orch_Chase01_Drama_Pickup".
+		L1 : IN REGION : "M7_drama_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Orch_Chase01_Drama_Pickup".
+		L4 : IN REGION : "M4_drama_region".
+		(L4 : ABOVE REGION OVERRULED AS UNUSED.)
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Orch_Chase01_Drama_Pickup".
+		L7 : IN REGION : "M7_drama_region".
+		(L7 : ABOVE REGION OVERRULED AS UNUSED.)
+orch_chase01_end_neg_b4
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Orch_Chase01_End_Neg".
+		L1 : IN REGION : "M7_end_Neg_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Orch_Chase01_End_Neg".
+		L4 : IN REGION : "M4_end_Neg_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Orch_Chase01_End_Neg".
+		L5 : IN REGION : "M2_end_Neg_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Orch_Chase01_End_Neg".
+		L6 : IN REGION : "M4_end_Neg_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Orch_Chase01_End_Neg".
+		L7 : IN REGION : "M7_end_Neg_region".
+orch_chase01_end_pos_b3
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Orch_Chase01_End_Pos".
+		L1 : IN REGION : "M7_end_Pos_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Orch_Chase01_End_Pos".
+		L4 : IN REGION : "M4_end_Pos_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Orch_Chase01_End_Pos".
+		L5 : IN REGION : "M2_end_Pos_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Orch_Chase01_End_Pos".
+		L6 : IN REGION : "M4_end_Pos_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Orch_Chase01_End_Pos".
+		L7 : IN REGION : "M7_end_Pos_region".
+orch_chase01_end_sus
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Orch_Chase01_End_Sus".
+		L1 : IN REGION : "M7_end_Sus_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Orch_Chase01_End_Sus".
+		L4 : IN REGION : "M4_end_Sus_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Orch_Chase01_End_Sus".
+		L5 : IN REGION : "M2_end_Sus_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Orch_Chase01_End_Sus".
+		L6 : IN REGION : "M4_end_Sus_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Orch_Chase01_End_Sus".
+		L7 : IN REGION : "M7_end_Sus_region".
+orch_chase01_main
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Orch_Chase01_Main".
+		L1 : IN REGION : "M7_main_region".
+		L1 : IN REGION : "M7_drama_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Orch_Chase01_Main".
+		L4 : IN REGION : "M4_main_region".
+		L4 : IN REGION : "M4_drama_region".
+		(L4 : ABOVE REGION OVERRULED AS UNUSED.)
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Orch_Chase01_Main".
+		L5 : IN REGION : "M2_main_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Orch_Chase01_Main".
+		L6 : IN REGION : "M4_main_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Orch_Chase01_Main".
+		L7 : IN REGION : "M7_main_region".
+		L7 : IN REGION : "M7_drama_region".
+		(L7 : ABOVE REGION OVERRULED AS UNUSED.)
+orch_chase01_pickup
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Orch_Chase01_Pickup".
+		L1 : IN REGION : "M7_main_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Orch_Chase01_Pickup".
+		L4 : IN REGION : "M4_main_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Orch_Chase01_Intro".
+		L5 : IN REGION : "M2_main_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Orch_Chase01_Intro".
+		L6 : IN REGION : "M4_main_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Orch_Chase01_Pickup".
+		L7 : IN REGION : "M7_main_region".
+otto_chase
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Otto_Chase".
+		L3 : IN REGION : "M4_Main_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Otto_Chase".
+		L6 : IN REGION : "M1_Main_region".
+otto_chase_end_neg1
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Otto_Chase_End_Neg1".
+		L3 : IN REGION : "M4_end_Neg_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Otto_Chase_End_Neg1".
+		L6 : IN REGION : "M1_end_Neg_region".
+otto_chase_end_pos1
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Otto_Chase_End_Pos1".
+		L3 : IN REGION : "M4_end_Pos_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Otto_Chase_End_Pos1".
+		L6 : IN REGION : "M1_end_Pos_region".
+otto_chase_end_sus1
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Otto_Chase_End_Sus1".
+		L3 : IN REGION : "M4_end_Sus_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Otto_Chase_End_Sus1".
+		L6 : IN REGION : "M1_end_Sus_region".
+powerplant_10sec
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "PowerPlant_10sec".
+		L1 : IN REGION : "M4_10sec_region".
+		(L1 : ABOVE REGION OVERRULED AS UNUSED.)
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "PowerPlant_10sec".
+		L4 : IN REGION : "Bonus_10sec_region".
+		(L4 : ABOVE REGION OVERRULED AS UNUSED.)
+powerplant_end_neg
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "PowerPlant_End_Neg".
+		L1 : IN REGION : "M4_end_Neg_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "PowerPlant_End_Neg".
+		L4 : IN REGION : "Bonus_end_Neg_region".
+powerplant_end_pos
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "PowerPlant_End_Pos".
+		L1 : IN REGION : "M4_end_Pos_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "PowerPlant_End_Pos".
+		L4 : IN REGION : "Bonus_end_Pos_region".
+powerplant_main
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "PowerPlant_Main".
+		L1 : IN REGION : "M4_Main_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "PowerPlant_Main".
+		L4 : IN REGION : "Bonus_Main_region".
+scarymusic01
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "ScaryMusic01".
+		L7 : IN REGION : "OF_Apu_Oasis_region".
+		(L7 : ABOVE REGION OVERRULED AS UNUSED.)
+simpsons_theme
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Simpsons_Theme".
+		L1 : IN REGION : "FE_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Simpsons_Theme".
+		L2 : IN REGION : "FE_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Simpsons_Theme".
+		L3 : IN REGION : "FE_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Simpsons_Theme".
+		L4 : IN REGION : "FE_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Simpsons_Theme".
+		L5 : IN REGION : "FE_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Simpsons_Theme".
+		L6 : IN REGION : "FE_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Simpsons_Theme".
+		L7 : IN REGION : "FE_region".
+social_club
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Social_Club".
+		L1 : IN REGION : "Social_Club_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Social_Club".
+		L2 : IN REGION : "Social_Club_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Social_Club".
+		L3 : IN REGION : "Social_Club_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Social_Club".
+		L4 : IN REGION : "Social_Club_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Social_Club".
+		L5 : IN REGION : "Social_Club_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Social_Club".
+		L6 : IN REGION : "Social_Club_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Social_Club".
+		L7 : IN REGION : "Social_Club_region".
+stone_cutter_spoof
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Stone_Cutter_Spoof".
+		L1 : IN REGION : "StoneCutters_region".
+		(L1 : ABOVE REGION OVERRULED AS UNUSED.)
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Stone_Cutter_Spoof".
+		L2 : IN REGION : "StoneCutters_region".
+		(L2 : ABOVE REGION OVERRULED AS UNUSED.)
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Stone_Cutter_Spoof".
+		L3 : IN REGION : "StoneCutters_region".
+		(L3 : ABOVE REGION OVERRULED AS UNUSED.)
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Stone_Cutter_Spoof".
+		L4 : IN REGION : "StoneCutters_region".
+		(L4 : ABOVE REGION OVERRULED AS UNUSED.)
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Stone_Cutter_Spoof".
+		L5 : IN REGION : "StoneCutters_region".
+		(L5 : ABOVE REGION OVERRULED AS UNUSED.)
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Stone_Cutter_Spoof".
+		L6 : IN REGION : "StoneCutters_region".
+		(L6 : ABOVE REGION OVERRULED AS UNUSED.)
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Stone_Cutter_Spoof".
+		L7 : IN REGION : "StoneCutters_region".
+		(L7 : ABOVE REGION OVERRULED AS UNUSED.)
+streetracer_anthem
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "StreetRacer_Anthem".
+		L1 : IN REGION : "street_race2_start_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "StreetRacer_Anthem".
+		L2 : IN REGION : "street_race2_start_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "StreetRacer_Anthem".
+		L3 : IN REGION : "street_race2_start_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "StreetRacer_Anthem".
+		L4 : IN REGION : "street_race2_start_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "StreetRacer_Anthem".
+		L5 : IN REGION : "street_race2_start_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "StreetRacer_Anthem".
+		L6 : IN REGION : "street_race2_start_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "StreetRacer_Anthem".
+		L7 : IN REGION : "street_race2_start_region".
+streetracer_end_neg1
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "StreetRacer_End_Neg1".
+		L1 : IN REGION : "lose_street_race2_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "StreetRacer_End_Neg1".
+		L2 : IN REGION : "lose_street_race2_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "StreetRacer_End_Neg1".
+		L3 : IN REGION : "lose_street_race2_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "StreetRacer_End_Neg1".
+		L4 : IN REGION : "lose_street_race2_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "StreetRacer_End_Neg1".
+		L5 : IN REGION : "lose_street_race2_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "StreetRacer_End_Neg1".
+		L6 : IN REGION : "lose_street_race2_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "StreetRacer_End_Neg1".
+		L7 : IN REGION : "lose_street_race2_region".
+streetracer_end_neg2
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "StreetRacer_End_Neg2".
+		L1 : IN REGION : "lose_street_race2_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "StreetRacer_End_Neg2".
+		L2 : IN REGION : "lose_street_race2_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "StreetRacer_End_Neg2".
+		L3 : IN REGION : "lose_street_race2_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "StreetRacer_End_Neg2".
+		L4 : IN REGION : "lose_street_race2_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "StreetRacer_End_Neg2".
+		L5 : IN REGION : "lose_street_race2_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "StreetRacer_End_Neg2".
+		L6 : IN REGION : "lose_street_race2_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "StreetRacer_End_Neg2".
+		L7 : IN REGION : "lose_street_race2_region".
+streetracer_end_pos2
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "StreetRacer_End_Pos2".
+		L1 : IN REGION : "win_street_race2_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "StreetRacer_End_Pos2".
+		L2 : IN REGION : "win_street_race2_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "StreetRacer_End_Pos2".
+		L3 : IN REGION : "win_street_race2_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "StreetRacer_End_Pos2".
+		L4 : IN REGION : "win_street_race2_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "StreetRacer_End_Pos2".
+		L5 : IN REGION : "win_street_race2_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "StreetRacer_End_Pos2".
+		L6 : IN REGION : "win_street_race2_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "StreetRacer_End_Pos2".
+		L7 : IN REGION : "win_street_race2_region".
+streetracer_end_sus1
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "StreetRacer_End_Sus1".
+		L1 : IN REGION : "getoutofcar_street_race2_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "StreetRacer_End_Sus1".
+		L2 : IN REGION : "getoutofcar_street_race2_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "StreetRacer_End_Sus1".
+		L3 : IN REGION : "getoutofcar_street_race2_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "StreetRacer_End_Sus1".
+		L4 : IN REGION : "getoutofcar_street_race2_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "StreetRacer_End_Sus1".
+		L5 : IN REGION : "getoutofcar_street_race2_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "StreetRacer_End_Sus1".
+		L6 : IN REGION : "getoutofcar_street_race2_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "StreetRacer_End_Sus1".
+		L7 : IN REGION : "getoutofcar_street_race2_region".
+sunday_drive
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Sunday_Drive".
+		L1 : IN REGION : "Sunday_Drive_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bonus_main".
+		L3 : IN REGION : "Bonus_main_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Sunday_Drive".
+		L4 : IN REGION : "Sunday_Drive_region".
+sunday_drive_end_sus1
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Sunday_Drive_End_Sus1".
+		L1 : IN REGION : "Sunday_Drive_Sus_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bonus_end_Neg".
+		L3 : IN REGION : "Bonus_end_Neg_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Sunday_Drive_End_Sus1".
+		L4 : IN REGION : "Sunday_Drive_Sus_region".
+sunday_drive_end_sus2
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "M0_End_Pos".
+		L1 : IN REGION : "M0_End_Pos_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bonus_end_Pos".
+		L3 : IN REGION : "Bonus_end_Pos_region".
+sunday_drive_end_sus3
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Sunday_Drive_End_Sus3".
+		L1 : IN REGION : "Sunday_Drive_Sus_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bonus_end_Sus".
+		L3 : IN REGION : "Bonus_end_Sus_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Sunday_Drive_End_Sus3".
+		L4 : IN REGION : "Sunday_Drive_Sus_region".
+sunday_drive_intro
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Sunday_Drive_Intro".
+		L1 : IN REGION : "Sunday_Drive_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bonus_intro".
+		L3 : IN REGION : "Bonus_main_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Sunday_Drive_Intro".
+		L4 : IN REGION : "Sunday_Drive_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sunday_Drive_Intro".
+ufo_end_neg_b4
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "UFO_End_Neg".
+		L7 : IN REGION : "M2_end_Neg_region".
+		L7 : IN REGION : "M5_end_Neg_region".
+	L7 : USES ALIAS "UFO_End_Neg".
+		L7 : IN REGION : "M2_end_Neg_region".
+		L7 : IN REGION : "M5_end_Neg_region".
+ufo_end_pos_b4
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "UFO_End_Pos".
+		L7 : IN REGION : "M2_end_Pos_region".
+		L7 : IN REGION : "M5_end_Pos_region".
+	L7 : USES ALIAS "UFO_End_Pos".
+		L7 : IN REGION : "M2_end_Pos_region".
+		L7 : IN REGION : "M5_end_Pos_region".
+ufo_end_sus_b4
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "UFO_End_Sus".
+		L7 : IN REGION : "M2_end_Sus_region".
+		L7 : IN REGION : "M5_end_Sus_region".
+	L7 : USES ALIAS "UFO_End_Sus".
+		L7 : IN REGION : "M2_end_Sus_region".
+		L7 : IN REGION : "M5_end_Sus_region".
+ufo_main
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "UFO_Main".
+		L7 : IN REGION : "M2_main_region".
+		L7 : IN REGION : "M5_main_region".
+	L7 : USES ALIAS "UFO_Main".
+		L7 : IN REGION : "M2_main_region".
+		L7 : IN REGION : "M5_main_region".
+vivaldi
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Vivaldi".
+		L1 : IN REGION : "StoneCutters_Tunnel_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Vivaldi".
+		L2 : IN REGION : "StoneCutters_Tunnel_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Vivaldi".
+		L3 : IN REGION : "StoneCutters_Tunnel_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Vivaldi".
+		L4 : IN REGION : "StoneCutters_Tunnel_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Vivaldi".
+		L5 : IN REGION : "StoneCutters_Tunnel_region".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Vivaldi".
+		L6 : IN REGION : "StoneCutters_Tunnel_region".

@@ -1,0 +1,44 @@
+Vehicle Internal Name,Vehicle English Text,SPEED/5.0,ACCELERATION/5.0,TOUGHNESS/5.0,HANDLING/5.0
+famil_v,Family Sedan,1,1.5,2.5,4
+cletu_v,Pickup Truck,1,1,3.5,2.5
+elect_v,Electaurus,2,1.5,1.5,4
+plowk_v,Plow King,1.5,0.5,5,1.5
+cDuff,Duff Truck,0.5,0.5,4,1
+cVan,Surveillance Van,1.5,1.5,3.5,3
+honor_v,Honor Roller,1.5,2,1.5,5
+gramp_v,WWII Vehicle,1.5,1.5,3.5,3
+moe_v,Sedan,2,1.5,2.5,3.5
+mrplo_v,Mr. Plow,2,1.5,3.5,3
+cLimo,Limo,1.5,1.5,3.5,2.5
+cFire_v,Fire Truck,3,0.5,5,1
+lisa_v,Malibu Stacy Car,2.5,3,1.5,4.5
+skinn_v,Sedan,2,2,2.5,3
+bookb_v,Book Burning Van,2,1.5,3.5,2.5
+otto_v,School Bus,2,1,5,2
+cDonut,Donut Truck,0.5,1.5,3,3
+cNerd,Nerd Car,1.5,2.5,2.5,4
+marge_v,Canyonero,2.5,1.5,4,3
+comic_v,Kremlin,2.5,2,3,4
+krust_v,Clown Car,3,3,1.5,5
+willi_v,Tractor,3,2.5,3.5,3.5
+cKlimo,"Krusty's Limo",2.5,2,4,2.5
+cCurator,Curator,2.5,3,2.5,4.5
+apu_v,Longhorn,3.5,3.5,2.5,3.5
+frink_v,Hover Car,4,4,1,3
+bbman_v,El Carro Loco,4,3,2.5,3.5
+carhom_v,Car Built For Homer,4.5,3.5,3.5,3
+wiggu_v,Police Car,4,3.5,3,4
+cCola,Cola Truck,3,1,5,1
+bart_v,Ferrini - Red,4,4,1.5,5
+snake_v,Bandit,4.5,4,2.5,4.5
+burns_v,36 Stutz Bearcat,4,2.5,3.5,4
+scorp_v,Globex Super Villain Car,4.5,4.5,1.5,4
+cArmor,Armored Truck,1.5,1.5,5,1.5
+cSedan,Chase Sedan,4,4.5,3,4.5
+homer_v,"70's Sports Car",4.5,4.5,2.0,4
+smith_v,"Mr. Burns' Limo",4.5,3,4.5,3.5
+fone_v,Open Wheel Race Car,5,5,0.5,5
+zombi_v,Zombie Car,4.5,5,1.5,4.5
+hbike_v,Hover Bike,5,4.5,1,3.5
+cHears,Hearse,4.5,4.5,3.5,4
+gramR_v,WWII Vehicle w/Rocket,5,5,3.5,3
