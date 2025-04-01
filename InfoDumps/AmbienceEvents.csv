@@ -1,0 +1,80 @@
+Index,LT0 Bind,Event,Method,Region,Streams (RSDs)
+0,*,frontend,PLAY,frontend_region,*
+1,*,movie,PLAY,movie_region,*
+2,*,pause,PUSH,pause_region,*
+3,*,unpause,POP,pause_region,*
+4,7,L2_light_city_day,PLAY,city_day_region,city_busy_loop_05 (city_busy_loop_05)
+5,8,L3_seaside_day,PLAY,seaside_day_region,harbour_day_loop_01c (harbour_day_loop_01c)
+6,9,L1_suburbs_day,PLAY,suburbs_day_region,suburb_day_loop (suburb_day_loop)
+7,10,L3_forest_day,PLAY,forest_day_region,forest_day_loop_03b (forest_day_loop_03b)
+8,11,L1_apu_oasis,PLAY,apu_oasis_region,apu_oasis_loop_04c (apu_oasis_loop_04c)
+9,12,L1_Farm,PLAY,barn_region,barn_ambience_loop_04 (barn_ambience_loop_04) & barn_ambience_loop_05 (barn_ambience_loop_05) & barn_ambience_loop_06 (barn_ambience_loop_06)
+10,13,L1_Barn,PLAY,barn_region,barn_ambience_loop_04 (barn_ambience_loop_04) & barn_ambience_loop_05 (barn_ambience_loop_05) & barn_ambience_loop_06 (barn_ambience_loop_06)
+11,14,L1_PowerPlantExterior,PLAY,power_plant_region,power_plant (power_plant)
+12,15,L1_PowerPlantInterior,PLAY,power_plant_region,power_plant (power_plant)
+13,16,L1_River,PLAY,power_plant_region,power_plant (power_plant)
+14,17,L2_city_day,PLAY,city_day_region,city_busy_loop_05 (city_busy_loop_05)
+15,18,L2_construction_site_day,PLAY,construction_site_day_region,construction_loop_01 (construction_loop_01)
+16,19,L2_stadium,PLAY,stadium_tunnel_region,stadium_tunnel_loop (stadium_tunnel_loop)
+17,20,L2_stadium_tunnel,PLAY,stadium_tunnel_region,stadium_tunnel_loop (stadium_tunnel_loop)
+18,21,L2_matlock_expressway_day,PLAY,matlock_expressway_day_region,expressway_loop_01 (expressway_loop_01)
+19,22,L2_slum,PLAY,slum_region,city_busy_loop_05 (city_busy_loop_05)
+20,23,L2_railyard_day,PLAY,railyard_day_region,railyard_ambience_loop_04 (railyard_ambience_loop_04)
+21,24,L2_hospital,PLAY,city_day_region,city_busy_loop_05 (city_busy_loop_05)
+22,25,L2_light_city,PLAY,city_day_region,city_busy_loop_05 (city_busy_loop_05)
+23,26,L3_shipyard,PLAY,pause_region,*
+24,27,L3_dockside_day,PLAY,dockside_day_region,squidport_amb_loop_03 (squidport_amb_loop_03) & squidport_amb_loop_02 (squidport_amb_loop_02)
+25,28,L3_lighthouse,PLAY,lighthouse_region,lighthouse_loop_02b (lighthouse_loop_02b)
+26,29,L1_country_hiway,PLAY,countryside_day_region,country_day_loop (country_day_loop)
+27,30,L3_krustylu_studios,PLAY,krustylu_studios_exterior_region,powplant_loop_exterior_01 (powplant_loop_exterior_01)
+28,31,L3_springfield_dam,PLAY,city_day_region,city_busy_loop_05 (city_busy_loop_05)
+29,32,L3_forest_hiway,PLAY,forest_highway_region,forest_highway_loop_01b (forest_highway_loop_01b)
+30,33,L3_retaining_wall_tunnel,PLAY,retaining_wall_tunnel_region,tunnel_loop_01 (tunnel_loop_01)
+31,34,L3_krustylu_studios_exterior,PLAY,krustylu_studios_exterior_region,powplant_loop_exterior_01 (powplant_loop_exterior_01)
+32,35,L3_duff_brewery_exterior,PLAY,duff_brewery_exterior_region,duff_exterior (duff_exterior)
+33,36,L3_duff_brewery_interior,PLAY,duff_brewery_exterior_region,duff_exterior (duff_exterior)
+34,37,L1_Stonecutters_Tunnel,PLAY,stonecutters_tunnel_region,burns_tunnel_loop (burns_tunnel_loop)
+35,38*,L1_Stonecutters_Hall,PLAY,stonecutters_hall_region,stonecutters_hall_loop (stonecutters_hall_loop)
+36,39,L1_Sewer_Tunnel,PLAY,sewer_tunnel_region,sewer_tunnel_loop_07 (sewer_tunnel_loop_07)
+37,40,L1_Burns_Tunnel,PLAY,burns_tunnel_region,burns_tunnel_loop (burns_tunnel_loop)
+38,41,L1_Power_Plant_One,PLAY,power_plant_one_region,power_plant_loop_17 (power_plant_loop_17)
+39,42,L1_Power_Plant_Two,PLAY,power_plant_two_region,power_plant_loop_13 (power_plant_loop_13)
+40,43,L1_Power_Plant_Three,PLAY,power_plant_three_region,power_plant_loop_09 (power_plant_loop_09)
+41,44,L1_Power_Plant_Tunnel_01,PLAY,power_plant_tunnel_01_region,powerplant_tunnel_loop_01 (powerplant_tunnel_loop_01)
+42,45,L1_Power_Plant_Tunnel_02,PLAY,power_plant_tunnel_02_region,powerplant_tunnel_loop_02 (powerplant_tunnel_loop_02)
+43,46,L1_Burns_Mansion_Interior,PLAY,burns_mansion_interior_region,burns_mansion_interior_loop (burns_mansion_interior_loop)
+44,*,DoNotUse1,PUSH,pause_region,*
+45,*,DoNotUse2,PUSH,pause_region,*
+46,*,DoNotUse3,PUSH,pause_region,*
+47,50,L4_Country_Night,PLAY,countryside_night_region,country_night_loop (country_night_loop)
+48,51,L4_suburbs_night,PLAY,suburbs_night_region,suburb_night_loop_01 (suburb_night_loop_01)
+49,52,L5_Forest_Night,PLAY,forest_night_region,forest_night_loop_01 (forest_night_loop_01)
+50,53,halloween_01,PLAY,halloween_01_region,halloween_amb_loop_10 (halloween_amb_loop_10)
+51,54,halloween_02,PUSH,halloween_02_region,halloween_cemetary_loop_01 (halloween_cemetary_loop_01)
+52,55,halloween_03,PUSH,halloween_02_region,halloween_cemetary_loop_01 (halloween_cemetary_loop_01)
+53,56*,Placeholder3,PUSH,apu_oasis_night_region,apu_oasis_night_loop_02 (apu_oasis_night_loop_02)
+54,57,Placeholder4,PUSH,cemetary_day_region,cemetary_day_loop_01 (cemetary_day_loop_01)
+55,58,Placeholder5,PUSH,cemetary_night_region,cemetary_night_loop_02 (cemetary_night_loop_02)
+56,59,Placeholder6,PUSH,halloween_barn_region,halloween_barn (halloween_barn)
+57,60,Placeholder7,PUSH,halloween_ufo_ambience_region,ufo_ambience (ufo_ambience)
+58,61*,Placeholder8,PUSH,pause_region,*
+59,62*,Placeholder9,PUSH,pause_region,*
+60,*,DoNotUse4,PUSH,pause_region,*
+61,*,DoNotUse5,PUSH,pause_region,*
+62,*,DoNotUse6,PUSH,pause_region,*
+63,*,DoNotUse7,PUSH,pause_region,*
+64,67,Seaside_night,PUSH,seaside_night_region,squidport_night_loop (squidport_night_loop)
+65,68,Lighthouse_night,PUSH,lighthouse_night_region,squidport_beach_night_loop (squidport_beach_night_loop)
+66,69*,Brewery_night,PUSH,brewery_night_region,squidport_beach_night_loop (squidport_beach_night_loop)
+67,70,Placeholder10,PUSH,city_night_region,city_night_loop_02 (city_night_loop_02)
+68,71,Placeholde11,PUSH,halloween_cafeteria_powerplant_region,halloween_cafeteria (halloween_cafeteria)
+69,72,Placeholde12,PUSH,pause_region,*
+70,73,Placeholde13,PUSH,pause_region,*
+71,74,Placeholder14,PUSH,pause_region,*
+72,75,Placeholder15,PUSH,pause_region,*
+73,76,Placeholder16,PUSH,pause_region,*
+74,*,L1_Kwik_E_Mart,PLAY,room_small_01_region,room_small_01 (room_small_01)
+75,*,L1_School,PLAY,room_small_01_region,room_small_01 (room_small_01)
+76,*,L1_House,PLAY,room_small_01_region,room_small_01 (room_small_01)
+77,*,L3_Krustylou_Studios,PLAY,krustylou_studios_region,room_small_01 (room_small_01)
+78,*,L2_DMV,PLAY,room_dmv_region,room_dmv (DMV)
