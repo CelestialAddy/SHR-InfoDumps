@@ -18,5 +18,7 @@ Credit to [**Donut Team/community**](https://donutteam.com) for years of researc
 - [**VehicleStatStars.csv ->**](InfoDumps/VehicleStatStars.csv) Table of vehicle Phone Booth/vendor purchase statistic star ratings.
 - [**TrafficComposition.csv ->**](InfoDumps/TrafficComposition.csv) Table of traffic vehicles/appearance settings by Level.
 - [**DriverSuppression.csv ->**](InfoDumps/DriverSuppression.csv) Table of dis/allowed player vehicle drivers by Level/type ("D"=driver, "C"=character, "_"=neither); notes repeats.
+- [**AmbienceEvents.csv ->**](InfoDumps/AmbienceEvents.csv) Table of ambience events/tied regions, streams, and other parameters (LT0 Bind = N* = also plays music track).
+- [**PedestrianGroups.csv ->**](InfoDumps/PedestrianGroups.csv) Table of each Level's pedestrian groups' compositions and trigger spots.
 
 ---
