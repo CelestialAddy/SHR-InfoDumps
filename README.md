@@ -20,5 +20,8 @@ Credit to [**Donut Team/community**](https://donutteam.com) for years of researc
 - [**DriverSuppression.csv ->**](InfoDumps/DriverSuppression.csv) Table of dis/allowed player vehicle drivers by Level/type ("D"=driver, "C"=character, "_"=neither); notes repeats.
 - [**AmbienceEvents.csv ->**](InfoDumps/AmbienceEvents.csv) Table of ambience events/tied regions, streams, and other parameters (LT0 Bind = N* = also plays music track).
 - [**PedestrianGroups.csv ->**](InfoDumps/PedestrianGroups.csv) Table of each Level's pedestrian groups' compositions and trigger spots.
+- [**VehicleSounds.csv ->**](InfoDumps/VehicleSounds.csv) Table of every vehicle's assigned sound resources and RSD files.
+- [**UnusedVehicleSounds.md ->**](InfoDumps/UnusedVehicleSounds.md) List of unused vehicle sound resources and RSD files.
 
 ---
+
